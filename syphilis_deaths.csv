@@ -1,0 +1,1101 @@
+Country,Year,Age_Group,Sex,Deaths,Rate_per_100k,Region,Income_Level,Treatment_Access,Urban_Rural,Hospitalized,Notes
+Japan,2021,65+,Female,793,2.37,North,Upper-Middle,Good,Rural,Yes,Syphilis
+Canada,2000,15-24,Male,538,15.08,South,Upper-Middle,Good,Urban,No,Syphilis
+Brazil,2002,55-64,Male,177,26.6,East,Lower-Middle,Good,Rural,No,Syphilis
+Japan,2014,55-64,Female,575,20.47,Central,Upper-Middle,Moderate,Rural,Yes,Syphilis
+Brazil,2020,65+,Female,429,13.76,West,Upper-Middle,Poor,Rural,No,Syphilis
+India,2022,65+,Female,73,6.65,East,High,Good,Rural,Yes,Syphilis
+Germany,2009,65+,Female,847,40.98,South,High,Good,Urban,No,Syphilis
+Brazil,2007,0-14,Female,167,49.81,North,Low,Poor,Rural,Yes,Syphilis
+India,2011,25-34,Female,225,16.54,West,Low,Moderate,Rural,No,Syphilis
+France,2021,25-34,Female,577,19.14,Central,Low,Moderate,Rural,Yes,Syphilis
+South Africa,2014,45-54,Male,581,30.94,East,High,Moderate,Urban,No,Syphilis
+Japan,2008,0-14,Male,952,35.95,Central,Low,Poor,Rural,No,Syphilis
+Germany,2023,45-54,Female,9,19.66,South,Low,Poor,Urban,No,Syphilis
+Australia,2009,45-54,Male,236,45.26,Central,High,Moderate,Urban,Yes,Syphilis
+South Africa,2019,45-54,Female,710,28.04,North,Lower-Middle,Moderate,Rural,No,Syphilis
+Japan,2008,35-44,Male,924,22.57,East,High,Poor,Urban,Yes,Syphilis
+Germany,2014,45-54,Female,685,32.37,East,Lower-Middle,Moderate,Rural,No,Syphilis
+Australia,2022,55-64,Male,794,47.64,North,High,Good,Rural,No,Syphilis
+UK,2020,15-24,Female,28,39.75,Central,Low,Poor,Rural,No,Syphilis
+India,2020,55-64,Male,808,2.1,North,Upper-Middle,Moderate,Rural,No,Syphilis
+UK,2000,55-64,Female,911,16.68,West,Upper-Middle,Good,Rural,No,Syphilis
+India,2001,25-34,Male,646,23.58,North,Lower-Middle,Poor,Rural,No,Syphilis
+USA,2018,35-44,Male,27,15.79,Central,Lower-Middle,Poor,Rural,Yes,Syphilis
+Canada,2013,45-54,Female,550,35.04,North,Lower-Middle,Good,Urban,Yes,Syphilis
+Germany,2007,25-34,Male,196,41.33,South,Upper-Middle,Poor,Urban,No,Syphilis
+UK,2005,0-14,Male,203,36.59,North,Lower-Middle,Moderate,Rural,No,Syphilis
+Canada,2011,0-14,Male,85,49.47,North,High,Poor,Rural,No,Syphilis
+Germany,2014,25-34,Male,832,13.7,Central,High,Moderate,Urban,No,Syphilis
+Japan,2013,15-24,Male,30,43.76,West,Upper-Middle,Good,Rural,No,Syphilis
+USA,2020,25-34,Female,466,38.35,West,High,Good,Urban,Yes,Syphilis
+Japan,2000,25-34,Female,99,18.17,Central,Lower-Middle,Poor,Urban,No,Syphilis
+India,2010,35-44,Male,899,36.73,Central,Upper-Middle,Good,Rural,No,Syphilis
+Canada,2002,0-14,Female,190,5.29,Central,Lower-Middle,Good,Rural,Yes,Syphilis
+Germany,2018,0-14,Male,12,39.49,South,High,Poor,Urban,Yes,Syphilis
+Brazil,2017,45-54,Female,603,26.66,East,Lower-Middle,Moderate,Urban,Yes,Syphilis
+Canada,2019,55-64,Male,30,14.69,North,Upper-Middle,Poor,Rural,No,Syphilis
+France,2001,25-34,Male,725,32.82,Central,Lower-Middle,Poor,Rural,No,Syphilis
+Australia,2006,25-34,Male,38,32.12,Central,High,Moderate,Urban,No,Syphilis
+UK,2007,15-24,Male,853,10.55,Central,Low,Moderate,Urban,No,Syphilis
+Germany,2018,65+,Female,572,1.62,West,Upper-Middle,Moderate,Urban,No,Syphilis
+South Africa,2021,65+,Female,294,21.74,Central,Lower-Middle,Poor,Rural,Yes,Syphilis
+South Africa,2014,0-14,Female,360,28.52,North,Upper-Middle,Moderate,Rural,No,Syphilis
+Australia,2009,15-24,Male,655,43.84,Central,Lower-Middle,Good,Rural,No,Syphilis
+India,2021,35-44,Female,914,46.42,North,Low,Moderate,Urban,No,Syphilis
+Canada,2000,45-54,Female,180,26.49,South,High,Good,Urban,Yes,Syphilis
+Canada,2005,15-24,Male,797,37.71,East,Lower-Middle,Moderate,Rural,No,Syphilis
+South Africa,2012,0-14,Male,112,22.02,West,Lower-Middle,Good,Urban,No,Syphilis
+Canada,2013,35-44,Male,742,37.33,North,Low,Good,Urban,No,Syphilis
+Australia,2002,25-34,Female,444,10.32,South,Upper-Middle,Good,Urban,No,Syphilis
+Canada,2010,35-44,Female,21,18.62,East,High,Good,Urban,Yes,Syphilis
+India,2002,55-64,Male,145,31.75,East,Lower-Middle,Good,Urban,Yes,Syphilis
+UK,2018,15-24,Female,499,1.01,East,Lower-Middle,Moderate,Rural,Yes,Syphilis
+France,2009,0-14,Male,146,36.15,North,High,Poor,Rural,No,Syphilis
+UK,2014,15-24,Female,441,41.79,South,Low,Poor,Rural,Yes,Syphilis
+France,2010,25-34,Male,887,20.02,Central,Upper-Middle,Poor,Rural,Yes,Syphilis
+Brazil,2014,65+,Female,421,22.45,South,High,Poor,Rural,No,Syphilis
+UK,2023,25-34,Female,316,42.58,South,Upper-Middle,Poor,Urban,No,Syphilis
+Australia,2012,0-14,Female,166,38.81,South,Low,Good,Urban,Yes,Syphilis
+USA,2004,55-64,Male,652,14.48,North,Low,Moderate,Urban,Yes,Syphilis
+Brazil,2003,45-54,Male,203,16.27,North,High,Good,Rural,Yes,Syphilis
+France,2012,35-44,Male,496,33.98,North,Lower-Middle,Moderate,Urban,Yes,Syphilis
+France,2008,35-44,Female,756,28.2,South,Low,Moderate,Urban,No,Syphilis
+Brazil,2016,25-34,Male,625,8.2,North,Low,Moderate,Urban,No,Syphilis
+France,2001,15-24,Female,468,15.57,East,High,Moderate,Rural,Yes,Syphilis
+Germany,2023,65+,Male,713,45.01,North,High,Poor,Urban,Yes,Syphilis
+USA,2004,15-24,Male,385,34.44,West,High,Moderate,Urban,Yes,Syphilis
+Australia,2015,55-64,Female,314,49.3,North,Low,Moderate,Rural,No,Syphilis
+Germany,2006,45-54,Female,771,38.37,North,Upper-Middle,Poor,Rural,No,Syphilis
+France,2000,15-24,Male,255,47.1,North,Low,Good,Urban,No,Syphilis
+UK,2011,35-44,Male,959,10.89,North,High,Good,Rural,Yes,Syphilis
+Germany,2020,65+,Female,917,38.6,West,Lower-Middle,Good,Urban,No,Syphilis
+UK,2010,15-24,Female,23,1.11,Central,Lower-Middle,Good,Rural,Yes,Syphilis
+Brazil,2011,65+,Male,905,33.57,North,High,Moderate,Urban,Yes,Syphilis
+Canada,2018,45-54,Female,758,23.52,East,Lower-Middle,Poor,Urban,No,Syphilis
+Japan,2011,35-44,Male,339,17.4,West,Low,Poor,Rural,Yes,Syphilis
+France,2011,65+,Male,493,43.13,Central,Upper-Middle,Good,Rural,No,Syphilis
+Japan,2013,15-24,Male,823,42.73,North,Low,Poor,Rural,No,Syphilis
+USA,2001,35-44,Female,511,1.21,Central,High,Moderate,Rural,Yes,Syphilis
+UK,2001,25-34,Male,366,30.51,East,Low,Good,Urban,Yes,Syphilis
+Germany,2003,25-34,Male,372,18.45,West,Lower-Middle,Moderate,Rural,No,Syphilis
+Japan,2019,55-64,Female,915,20.84,West,Low,Moderate,Urban,No,Syphilis
+India,2022,25-34,Female,830,41.62,Central,Upper-Middle,Moderate,Urban,No,Syphilis
+France,2015,15-24,Female,599,15.56,North,Lower-Middle,Moderate,Urban,No,Syphilis
+Japan,2009,45-54,Male,219,47.16,South,Upper-Middle,Moderate,Rural,No,Syphilis
+Germany,2012,35-44,Female,475,9.06,West,Upper-Middle,Good,Urban,No,Syphilis
+Germany,2001,65+,Female,423,33.17,South,Upper-Middle,Moderate,Urban,No,Syphilis
+USA,2002,0-14,Male,356,33.64,West,Low,Good,Rural,Yes,Syphilis
+South Africa,2018,25-34,Male,460,12.68,North,Low,Poor,Urban,No,Syphilis
+Australia,2005,25-34,Male,503,16.31,North,Low,Moderate,Urban,Yes,Syphilis
+India,2018,0-14,Male,27,41.76,West,Low,Moderate,Urban,Yes,Syphilis
+Japan,2020,65+,Female,942,38.11,Central,Lower-Middle,Poor,Rural,No,Syphilis
+Australia,2019,65+,Male,802,16.52,North,Low,Good,Urban,No,Syphilis
+India,2018,0-14,Female,801,26.74,North,Lower-Middle,Moderate,Urban,No,Syphilis
+South Africa,2007,65+,Male,860,3.18,East,Upper-Middle,Poor,Urban,No,Syphilis
+Japan,2013,15-24,Male,223,10.52,North,Lower-Middle,Poor,Rural,No,Syphilis
+India,2009,65+,Female,864,24.34,East,High,Moderate,Rural,Yes,Syphilis
+Australia,2002,35-44,Female,690,4.39,North,Low,Good,Rural,Yes,Syphilis
+UK,2005,65+,Female,148,42.18,North,High,Good,Urban,No,Syphilis
+Germany,2014,25-34,Male,424,35.93,Central,Lower-Middle,Moderate,Urban,No,Syphilis
+Canada,2022,45-54,Male,739,47.19,Central,Low,Poor,Urban,No,Syphilis
+Brazil,2022,15-24,Female,351,34.7,North,High,Moderate,Urban,No,Syphilis
+France,2017,15-24,Female,186,47.03,West,Low,Good,Urban,Yes,Syphilis
+Canada,2013,65+,Male,415,27.77,West,Lower-Middle,Poor,Rural,Yes,Syphilis
+Japan,2018,45-54,Female,806,30.05,North,High,Moderate,Urban,Yes,Syphilis
+Japan,2009,45-54,Female,982,48.85,West,Lower-Middle,Poor,Urban,No,Syphilis
+India,2014,55-64,Male,429,32.14,North,High,Good,Rural,No,Syphilis
+Germany,2003,45-54,Female,41,1.64,Central,Upper-Middle,Good,Rural,No,Syphilis
+South Africa,2022,65+,Male,905,36.22,South,Upper-Middle,Good,Urban,Yes,Syphilis
+USA,2001,65+,Male,393,45.28,East,Upper-Middle,Moderate,Rural,Yes,Syphilis
+India,2002,0-14,Male,703,39.8,West,Upper-Middle,Poor,Rural,Yes,Syphilis
+USA,2006,25-34,Female,79,29.23,West,Upper-Middle,Moderate,Rural,No,Syphilis
+Brazil,2022,55-64,Female,717,33.6,Central,Lower-Middle,Moderate,Urban,Yes,Syphilis
+Australia,2015,65+,Female,896,49.51,West,Upper-Middle,Moderate,Rural,No,Syphilis
+India,2009,0-14,Female,790,4.62,North,Lower-Middle,Moderate,Urban,Yes,Syphilis
+Brazil,2018,55-64,Male,784,33.4,North,Upper-Middle,Poor,Rural,No,Syphilis
+France,2016,25-34,Male,544,14.24,South,Low,Poor,Urban,No,Syphilis
+India,2018,55-64,Female,450,32.04,South,Upper-Middle,Moderate,Urban,No,Syphilis
+Germany,2004,0-14,Female,474,30.42,South,Low,Moderate,Urban,No,Syphilis
+Germany,2022,35-44,Female,142,7.76,North,Lower-Middle,Good,Rural,Yes,Syphilis
+Japan,2019,65+,Female,251,10.42,South,Upper-Middle,Good,Rural,Yes,Syphilis
+France,2012,25-34,Male,294,31.12,South,High,Poor,Rural,Yes,Syphilis
+Japan,2012,15-24,Female,610,6.5,North,Lower-Middle,Good,Urban,No,Syphilis
+USA,2010,25-34,Male,136,13.33,Central,Upper-Middle,Poor,Rural,Yes,Syphilis
+Canada,2010,25-34,Female,484,41.78,West,Lower-Middle,Poor,Rural,No,Syphilis
+South Africa,2015,25-34,Female,789,16.42,East,High,Poor,Urban,Yes,Syphilis
+France,2014,35-44,Female,312,24.45,North,Upper-Middle,Good,Rural,Yes,Syphilis
+Australia,2016,65+,Male,814,47.06,North,High,Good,Urban,No,Syphilis
+South Africa,2021,0-14,Female,555,11.43,East,Upper-Middle,Poor,Rural,No,Syphilis
+South Africa,2017,65+,Male,632,19.54,East,Low,Poor,Urban,No,Syphilis
+UK,2018,15-24,Male,732,30.36,South,Lower-Middle,Moderate,Urban,Yes,Syphilis
+India,2003,0-14,Female,46,37.79,East,High,Poor,Rural,No,Syphilis
+Australia,2021,55-64,Male,236,45.09,West,Lower-Middle,Poor,Urban,Yes,Syphilis
+France,2021,55-64,Male,48,45.78,West,High,Moderate,Rural,Yes,Syphilis
+Japan,2022,55-64,Male,198,38.85,West,Lower-Middle,Poor,Rural,Yes,Syphilis
+USA,2004,0-14,Female,84,11.49,West,Lower-Middle,Poor,Rural,No,Syphilis
+India,2006,45-54,Male,543,1.34,West,Lower-Middle,Poor,Rural,Yes,Syphilis
+UK,2001,35-44,Male,161,19.25,South,Low,Moderate,Urban,No,Syphilis
+USA,2000,45-54,Female,428,7.16,North,Upper-Middle,Good,Urban,No,Syphilis
+France,2011,65+,Female,71,35.55,East,Low,Poor,Urban,Yes,Syphilis
+Canada,2009,55-64,Male,520,33.09,North,Lower-Middle,Moderate,Rural,Yes,Syphilis
+South Africa,2007,35-44,Male,969,2.29,East,High,Poor,Rural,Yes,Syphilis
+UK,2000,0-14,Male,898,41.85,South,Lower-Middle,Moderate,Urban,Yes,Syphilis
+USA,2011,55-64,Male,913,12.51,South,Upper-Middle,Poor,Urban,No,Syphilis
+Japan,2001,0-14,Female,52,21.67,Central,Low,Moderate,Rural,No,Syphilis
+UK,2009,35-44,Female,45,33.43,Central,Upper-Middle,Good,Rural,No,Syphilis
+USA,2021,0-14,Male,293,21.53,South,High,Good,Rural,No,Syphilis
+UK,2016,0-14,Female,938,22.12,South,Upper-Middle,Good,Urban,No,Syphilis
+Japan,2002,15-24,Male,812,3.37,East,Low,Poor,Rural,No,Syphilis
+Japan,2006,65+,Female,465,20.13,South,High,Moderate,Urban,No,Syphilis
+Australia,2011,45-54,Female,885,38.27,North,Upper-Middle,Poor,Rural,No,Syphilis
+Germany,2007,45-54,Male,550,45.77,East,Low,Poor,Urban,No,Syphilis
+South Africa,2019,45-54,Male,867,20.73,South,Low,Moderate,Rural,Yes,Syphilis
+India,2011,25-34,Male,380,21.24,East,Lower-Middle,Poor,Urban,Yes,Syphilis
+India,2002,15-24,Male,743,35.16,East,Upper-Middle,Moderate,Urban,No,Syphilis
+France,2016,55-64,Female,478,47.14,West,High,Moderate,Urban,No,Syphilis
+Brazil,2008,55-64,Female,262,13.43,Central,Lower-Middle,Good,Rural,Yes,Syphilis
+France,2009,55-64,Male,580,22.06,East,Upper-Middle,Good,Urban,Yes,Syphilis
+Brazil,2021,45-54,Female,179,39.82,East,Upper-Middle,Good,Urban,Yes,Syphilis
+UK,2005,65+,Female,357,30.52,West,High,Moderate,Rural,No,Syphilis
+Brazil,2000,45-54,Male,419,5.62,South,Lower-Middle,Good,Urban,Yes,Syphilis
+Germany,2021,65+,Male,698,31.42,East,Lower-Middle,Moderate,Urban,Yes,Syphilis
+Germany,2011,15-24,Female,953,9.42,West,High,Poor,Rural,Yes,Syphilis
+South Africa,2004,65+,Male,201,25.56,North,Lower-Middle,Good,Urban,Yes,Syphilis
+USA,2012,0-14,Male,902,26.5,West,Low,Moderate,Rural,Yes,Syphilis
+India,2014,45-54,Female,13,43.82,Central,High,Moderate,Urban,No,Syphilis
+South Africa,2021,55-64,Female,443,23.18,Central,Upper-Middle,Moderate,Rural,Yes,Syphilis
+Germany,2010,0-14,Male,726,14.04,South,High,Moderate,Urban,No,Syphilis
+USA,2007,45-54,Female,732,11.63,South,Low,Good,Urban,Yes,Syphilis
+France,2004,35-44,Male,286,43.73,Central,High,Good,Urban,Yes,Syphilis
+India,2001,25-34,Male,756,8.63,Central,Upper-Middle,Good,Rural,Yes,Syphilis
+Australia,2011,45-54,Female,868,21.35,East,Upper-Middle,Moderate,Urban,Yes,Syphilis
+India,2001,35-44,Female,258,9.44,Central,High,Poor,Urban,Yes,Syphilis
+UK,2015,15-24,Male,570,38.69,South,High,Moderate,Rural,No,Syphilis
+Canada,2020,35-44,Male,548,23.77,Central,Low,Poor,Rural,No,Syphilis
+India,2002,15-24,Male,840,17.62,South,Low,Good,Rural,No,Syphilis
+Germany,2009,45-54,Female,941,18.12,North,Upper-Middle,Moderate,Urban,No,Syphilis
+UK,2018,15-24,Male,490,42.63,Central,Lower-Middle,Moderate,Urban,No,Syphilis
+Japan,2007,35-44,Female,498,27.73,South,Lower-Middle,Good,Urban,No,Syphilis
+Brazil,2006,65+,Male,905,35.92,West,Lower-Middle,Moderate,Rural,No,Syphilis
+France,2000,25-34,Female,894,44.86,East,Lower-Middle,Poor,Rural,Yes,Syphilis
+Australia,2011,0-14,Male,705,45.1,South,Upper-Middle,Poor,Urban,No,Syphilis
+France,2004,0-14,Female,333,16.49,Central,Lower-Middle,Poor,Urban,Yes,Syphilis
+Japan,2015,25-34,Male,562,47.63,Central,Lower-Middle,Moderate,Rural,Yes,Syphilis
+Canada,2003,55-64,Male,975,1.34,North,High,Moderate,Rural,No,Syphilis
+India,2016,0-14,Male,32,18.9,West,Lower-Middle,Poor,Rural,Yes,Syphilis
+South Africa,2023,45-54,Male,610,44.8,South,High,Moderate,Urban,Yes,Syphilis
+UK,2020,55-64,Female,43,13.8,West,Upper-Middle,Poor,Rural,No,Syphilis
+Australia,2001,45-54,Female,893,13.73,North,High,Good,Rural,Yes,Syphilis
+Japan,2011,35-44,Female,351,15.2,East,Low,Poor,Rural,No,Syphilis
+Canada,2000,35-44,Female,334,30.65,West,High,Good,Rural,Yes,Syphilis
+France,2011,55-64,Female,822,21.97,North,Lower-Middle,Good,Urban,No,Syphilis
+Japan,2011,55-64,Male,559,36.36,South,High,Good,Rural,Yes,Syphilis
+Australia,2011,55-64,Female,270,44.76,East,High,Poor,Urban,No,Syphilis
+Australia,2018,55-64,Female,944,33.74,Central,Upper-Middle,Poor,Urban,Yes,Syphilis
+Canada,2016,15-24,Female,823,10.3,North,Upper-Middle,Moderate,Rural,No,Syphilis
+France,2019,65+,Female,413,46.64,Central,Lower-Middle,Moderate,Rural,Yes,Syphilis
+Germany,2023,55-64,Male,943,13.3,East,Low,Good,Urban,Yes,Syphilis
+Australia,2023,65+,Male,575,7.58,North,Low,Poor,Rural,No,Syphilis
+UK,2010,55-64,Male,19,4.59,North,High,Moderate,Urban,Yes,Syphilis
+UK,2012,35-44,Male,347,28.21,East,Low,Moderate,Rural,No,Syphilis
+Brazil,2007,45-54,Female,905,5.78,South,Upper-Middle,Moderate,Urban,Yes,Syphilis
+France,2009,65+,Female,613,7.02,North,Lower-Middle,Poor,Urban,Yes,Syphilis
+Japan,2007,35-44,Male,37,15.07,East,Lower-Middle,Moderate,Urban,No,Syphilis
+UK,2019,0-14,Male,619,14.15,West,Upper-Middle,Good,Rural,Yes,Syphilis
+Canada,2007,15-24,Female,92,30.25,Central,Lower-Middle,Poor,Urban,No,Syphilis
+Japan,2008,15-24,Female,820,40.86,North,High,Moderate,Urban,Yes,Syphilis
+France,2006,45-54,Male,185,38.09,West,Lower-Middle,Moderate,Rural,Yes,Syphilis
+Canada,2013,55-64,Male,728,13.2,North,Low,Poor,Rural,Yes,Syphilis
+India,2001,35-44,Male,28,12.34,South,Lower-Middle,Moderate,Urban,Yes,Syphilis
+USA,2010,0-14,Male,548,48.29,East,Lower-Middle,Moderate,Urban,No,Syphilis
+UK,2007,35-44,Female,372,0.51,North,Upper-Middle,Good,Rural,No,Syphilis
+UK,2012,55-64,Female,832,44.0,East,Upper-Middle,Poor,Urban,Yes,Syphilis
+Brazil,2020,55-64,Female,530,10.07,North,Low,Moderate,Rural,Yes,Syphilis
+Germany,2014,25-34,Male,345,47.37,South,Upper-Middle,Poor,Rural,No,Syphilis
+Brazil,2002,35-44,Female,419,17.18,South,Low,Poor,Rural,Yes,Syphilis
+France,2022,45-54,Female,196,22.07,West,High,Good,Urban,No,Syphilis
+Brazil,2013,35-44,Male,78,35.39,South,Low,Good,Rural,Yes,Syphilis
+Germany,2014,15-24,Male,167,29.42,East,Lower-Middle,Poor,Urban,Yes,Syphilis
+Germany,2001,0-14,Male,90,15.97,South,Low,Good,Urban,No,Syphilis
+Australia,2018,65+,Male,264,27.74,North,High,Good,Rural,Yes,Syphilis
+Australia,2011,45-54,Male,472,36.56,South,Lower-Middle,Moderate,Rural,No,Syphilis
+USA,2019,25-34,Male,208,2.21,East,Low,Good,Rural,No,Syphilis
+Canada,2003,0-14,Female,724,0.66,North,Upper-Middle,Good,Rural,No,Syphilis
+India,2002,0-14,Female,271,22.96,West,Upper-Middle,Moderate,Urban,No,Syphilis
+Germany,2004,65+,Female,263,6.68,West,Upper-Middle,Moderate,Urban,No,Syphilis
+India,2002,15-24,Female,506,33.25,West,Low,Poor,Rural,No,Syphilis
+UK,2014,15-24,Female,785,10.78,North,Low,Good,Urban,Yes,Syphilis
+South Africa,2018,15-24,Female,512,21.7,West,High,Moderate,Rural,No,Syphilis
+USA,2001,45-54,Male,854,9.96,South,Lower-Middle,Good,Urban,No,Syphilis
+France,2011,35-44,Male,726,27.47,North,Lower-Middle,Poor,Urban,Yes,Syphilis
+Japan,2004,0-14,Male,886,5.89,North,Lower-Middle,Good,Urban,No,Syphilis
+India,2021,35-44,Female,576,1.25,North,Lower-Middle,Good,Rural,Yes,Syphilis
+Brazil,2016,35-44,Female,524,2.65,Central,Low,Good,Urban,No,Syphilis
+Germany,2013,15-24,Male,722,47.72,East,Low,Moderate,Urban,No,Syphilis
+India,2021,35-44,Male,312,7.2,Central,High,Moderate,Urban,No,Syphilis
+Japan,2009,0-14,Male,174,35.45,Central,Lower-Middle,Poor,Urban,Yes,Syphilis
+Germany,2002,0-14,Male,431,3.49,Central,Low,Good,Rural,Yes,Syphilis
+France,2003,55-64,Male,768,5.5,East,Low,Poor,Urban,No,Syphilis
+South Africa,2005,25-34,Female,463,25.49,Central,Low,Poor,Rural,No,Syphilis
+Brazil,2023,45-54,Female,101,23.3,West,Low,Moderate,Rural,Yes,Syphilis
+India,2021,35-44,Female,16,47.58,North,Lower-Middle,Good,Urban,Yes,Syphilis
+Australia,2015,45-54,Male,709,47.25,North,Lower-Middle,Good,Urban,Yes,Syphilis
+USA,2006,45-54,Female,258,39.0,South,Low,Poor,Rural,No,Syphilis
+India,2014,45-54,Male,896,30.14,West,Upper-Middle,Good,Rural,Yes,Syphilis
+India,2020,65+,Female,244,22.8,East,High,Moderate,Rural,Yes,Syphilis
+Japan,2019,55-64,Male,348,17.87,North,Lower-Middle,Poor,Urban,Yes,Syphilis
+Japan,2010,45-54,Male,249,47.36,Central,Lower-Middle,Poor,Urban,Yes,Syphilis
+USA,2021,55-64,Female,105,30.19,South,Upper-Middle,Moderate,Rural,Yes,Syphilis
+India,2020,0-14,Female,694,29.0,South,Lower-Middle,Moderate,Rural,Yes,Syphilis
+Canada,2000,65+,Female,667,11.67,North,Upper-Middle,Moderate,Rural,Yes,Syphilis
+France,2004,35-44,Female,287,2.43,West,Upper-Middle,Moderate,Urban,No,Syphilis
+Japan,2012,55-64,Female,169,47.26,South,Low,Moderate,Urban,Yes,Syphilis
+Japan,2020,25-34,Male,420,15.76,North,Lower-Middle,Moderate,Rural,No,Syphilis
+Canada,2013,45-54,Female,47,22.19,West,High,Poor,Urban,No,Syphilis
+Germany,2008,65+,Female,43,5.82,North,Upper-Middle,Good,Rural,Yes,Syphilis
+India,2016,25-34,Male,321,41.86,North,High,Good,Urban,No,Syphilis
+USA,2014,0-14,Female,818,1.48,West,Low,Poor,Rural,No,Syphilis
+Japan,2020,0-14,Male,221,41.72,West,Lower-Middle,Good,Urban,Yes,Syphilis
+USA,2006,15-24,Female,513,7.1,West,Low,Good,Urban,No,Syphilis
+USA,2021,45-54,Female,712,44.34,North,Low,Poor,Urban,Yes,Syphilis
+France,2021,15-24,Male,441,36.52,South,High,Good,Urban,Yes,Syphilis
+Australia,2011,65+,Female,144,8.32,East,High,Good,Urban,Yes,Syphilis
+Japan,2022,25-34,Female,890,28.33,East,Upper-Middle,Poor,Urban,Yes,Syphilis
+Brazil,2005,35-44,Female,28,15.7,North,Lower-Middle,Good,Urban,Yes,Syphilis
+Germany,2020,15-24,Female,854,8.99,North,Low,Moderate,Rural,Yes,Syphilis
+USA,2015,0-14,Male,850,42.97,South,Upper-Middle,Poor,Rural,Yes,Syphilis
+Japan,2004,45-54,Male,790,20.24,West,Upper-Middle,Good,Rural,No,Syphilis
+Germany,2008,25-34,Female,553,19.99,North,Low,Good,Urban,Yes,Syphilis
+Brazil,2013,55-64,Female,844,8.58,Central,Low,Moderate,Urban,No,Syphilis
+Japan,2007,65+,Male,659,19.21,West,Upper-Middle,Poor,Urban,Yes,Syphilis
+India,2013,65+,Male,857,43.59,North,Low,Poor,Rural,Yes,Syphilis
+USA,2011,0-14,Female,690,18.22,Central,Low,Good,Rural,Yes,Syphilis
+Brazil,2009,55-64,Male,827,47.59,South,High,Moderate,Rural,No,Syphilis
+India,2019,65+,Male,837,47.32,Central,Lower-Middle,Moderate,Rural,No,Syphilis
+USA,2019,35-44,Male,930,7.33,North,Upper-Middle,Moderate,Rural,No,Syphilis
+UK,2020,45-54,Male,167,8.95,East,Low,Moderate,Rural,No,Syphilis
+South Africa,2012,35-44,Female,635,43.15,North,Upper-Middle,Moderate,Urban,No,Syphilis
+Canada,2018,65+,Male,586,19.7,East,Lower-Middle,Moderate,Rural,No,Syphilis
+USA,2014,35-44,Female,751,0.32,South,Upper-Middle,Poor,Urban,Yes,Syphilis
+Brazil,2007,65+,Female,249,13.77,South,Upper-Middle,Good,Rural,Yes,Syphilis
+Brazil,2022,45-54,Male,775,29.92,West,Upper-Middle,Good,Rural,No,Syphilis
+South Africa,2020,45-54,Female,764,39.98,West,High,Moderate,Urban,No,Syphilis
+Japan,2009,55-64,Female,357,6.76,East,Lower-Middle,Poor,Urban,No,Syphilis
+Canada,2002,35-44,Male,111,5.62,East,Lower-Middle,Poor,Urban,No,Syphilis
+Germany,2020,25-34,Male,692,46.11,South,Upper-Middle,Moderate,Rural,No,Syphilis
+USA,2002,55-64,Male,700,37.58,Central,Upper-Middle,Good,Rural,Yes,Syphilis
+Japan,2004,45-54,Female,820,29.53,East,Lower-Middle,Moderate,Urban,Yes,Syphilis
+India,2015,0-14,Female,719,38.48,East,Low,Poor,Rural,Yes,Syphilis
+Germany,2016,65+,Female,234,21.5,Central,High,Moderate,Urban,Yes,Syphilis
+Canada,2005,55-64,Female,24,37.95,West,Lower-Middle,Good,Rural,Yes,Syphilis
+Japan,2019,15-24,Male,26,18.65,West,Upper-Middle,Good,Rural,Yes,Syphilis
+Australia,2019,25-34,Female,381,12.28,East,Low,Poor,Rural,Yes,Syphilis
+Germany,2015,65+,Male,730,36.48,West,Low,Moderate,Urban,Yes,Syphilis
+France,2023,55-64,Male,346,21.04,West,Low,Moderate,Rural,No,Syphilis
+France,2001,45-54,Male,378,49.07,West,High,Poor,Urban,No,Syphilis
+USA,2019,45-54,Male,522,17.54,South,High,Moderate,Urban,Yes,Syphilis
+USA,2014,25-34,Female,17,46.09,North,Lower-Middle,Poor,Urban,Yes,Syphilis
+USA,2017,15-24,Male,245,46.65,East,Lower-Middle,Moderate,Urban,Yes,Syphilis
+Canada,2000,55-64,Female,718,12.17,East,Lower-Middle,Good,Urban,No,Syphilis
+Australia,2018,55-64,Male,770,39.93,South,Lower-Middle,Poor,Urban,No,Syphilis
+Japan,2011,35-44,Male,624,21.71,North,Upper-Middle,Moderate,Urban,Yes,Syphilis
+India,2007,0-14,Male,717,45.88,North,High,Moderate,Urban,No,Syphilis
+UK,2005,45-54,Female,539,22.56,South,Low,Moderate,Urban,Yes,Syphilis
+Brazil,2011,55-64,Male,969,37.24,Central,Upper-Middle,Poor,Rural,Yes,Syphilis
+India,2006,55-64,Male,583,23.4,Central,Lower-Middle,Good,Urban,Yes,Syphilis
+Japan,2017,65+,Male,688,11.47,North,Lower-Middle,Moderate,Rural,Yes,Syphilis
+Australia,2021,65+,Male,202,10.05,Central,Upper-Middle,Poor,Urban,Yes,Syphilis
+Canada,2013,55-64,Female,248,21.33,Central,Low,Moderate,Rural,No,Syphilis
+Germany,2007,15-24,Female,118,37.8,Central,High,Good,Rural,Yes,Syphilis
+India,2023,0-14,Male,9,30.29,North,High,Good,Rural,Yes,Syphilis
+Germany,2019,55-64,Male,598,34.46,Central,Low,Good,Rural,Yes,Syphilis
+UK,2021,25-34,Female,23,14.19,East,High,Poor,Rural,Yes,Syphilis
+Japan,2013,45-54,Female,967,24.12,North,Lower-Middle,Moderate,Rural,No,Syphilis
+Australia,2004,35-44,Female,240,2.32,South,Lower-Middle,Poor,Urban,Yes,Syphilis
+Japan,2008,65+,Male,585,40.89,Central,Lower-Middle,Moderate,Urban,Yes,Syphilis
+Brazil,2007,25-34,Female,27,49.5,West,Lower-Middle,Poor,Urban,No,Syphilis
+Canada,2001,45-54,Male,984,20.4,North,Low,Moderate,Urban,Yes,Syphilis
+Brazil,2015,65+,Female,861,0.65,South,High,Poor,Urban,Yes,Syphilis
+Japan,2012,15-24,Female,81,8.57,East,High,Moderate,Urban,Yes,Syphilis
+Brazil,2006,65+,Male,596,32.66,South,Upper-Middle,Poor,Rural,Yes,Syphilis
+South Africa,2015,0-14,Female,199,30.64,Central,Low,Good,Urban,No,Syphilis
+Japan,2006,0-14,Male,555,39.41,West,High,Poor,Rural,Yes,Syphilis
+Australia,2013,45-54,Female,775,12.77,Central,High,Good,Rural,Yes,Syphilis
+India,2013,25-34,Male,92,38.21,South,Upper-Middle,Good,Rural,No,Syphilis
+Australia,2011,35-44,Female,851,34.43,North,Lower-Middle,Moderate,Rural,Yes,Syphilis
+South Africa,2000,15-24,Female,959,16.21,West,High,Good,Rural,Yes,Syphilis
+India,2000,45-54,Male,84,27.32,West,Lower-Middle,Good,Rural,No,Syphilis
+South Africa,2011,15-24,Male,300,7.45,South,Upper-Middle,Moderate,Urban,Yes,Syphilis
+India,2019,0-14,Male,935,22.68,Central,High,Poor,Rural,No,Syphilis
+Australia,2020,55-64,Male,296,44.07,South,Lower-Middle,Poor,Rural,Yes,Syphilis
+Japan,2014,55-64,Female,647,21.12,West,Low,Good,Urban,No,Syphilis
+USA,2003,35-44,Female,454,41.99,South,Lower-Middle,Poor,Urban,Yes,Syphilis
+France,2006,15-24,Female,281,29.55,West,Lower-Middle,Good,Urban,Yes,Syphilis
+France,2015,45-54,Female,59,9.67,Central,Lower-Middle,Poor,Urban,No,Syphilis
+South Africa,2002,35-44,Female,909,29.1,North,Lower-Middle,Poor,Urban,Yes,Syphilis
+France,2006,65+,Female,871,25.35,North,Low,Poor,Urban,No,Syphilis
+Australia,2023,65+,Male,342,19.99,South,Upper-Middle,Good,Urban,No,Syphilis
+Germany,2021,25-34,Female,753,6.07,West,Lower-Middle,Moderate,Rural,No,Syphilis
+South Africa,2005,55-64,Female,465,20.89,North,Lower-Middle,Poor,Urban,No,Syphilis
+India,2015,45-54,Male,880,3.73,West,High,Poor,Rural,Yes,Syphilis
+Canada,2023,15-24,Female,342,5.03,Central,High,Poor,Urban,No,Syphilis
+Brazil,2007,35-44,Female,610,20.85,South,Low,Good,Urban,Yes,Syphilis
+Australia,2022,45-54,Female,62,15.34,West,Low,Moderate,Rural,Yes,Syphilis
+India,2021,35-44,Male,776,46.28,South,Low,Good,Urban,No,Syphilis
+Germany,2005,35-44,Male,625,18.85,West,High,Poor,Urban,No,Syphilis
+Canada,2009,35-44,Female,429,37.92,West,Lower-Middle,Good,Urban,Yes,Syphilis
+France,2015,15-24,Male,658,26.56,Central,High,Poor,Urban,No,Syphilis
+Germany,2010,45-54,Female,728,35.23,South,Upper-Middle,Poor,Urban,Yes,Syphilis
+South Africa,2012,0-14,Female,256,13.08,East,Low,Good,Urban,No,Syphilis
+UK,2005,0-14,Female,828,47.1,West,Low,Poor,Urban,Yes,Syphilis
+UK,2023,15-24,Male,828,26.55,West,Low,Poor,Rural,Yes,Syphilis
+France,2000,65+,Female,874,41.58,North,Upper-Middle,Moderate,Urban,No,Syphilis
+UK,2020,15-24,Female,770,18.32,South,Lower-Middle,Good,Rural,Yes,Syphilis
+UK,2018,55-64,Female,706,5.1,East,Lower-Middle,Good,Rural,Yes,Syphilis
+India,2011,35-44,Female,347,33.72,Central,Lower-Middle,Poor,Rural,No,Syphilis
+India,2023,45-54,Female,526,0.49,East,Low,Poor,Rural,No,Syphilis
+Brazil,2005,45-54,Male,304,23.82,Central,Lower-Middle,Good,Rural,No,Syphilis
+Japan,2017,25-34,Female,615,9.72,East,High,Good,Rural,No,Syphilis
+France,2012,25-34,Male,245,31.41,East,Low,Good,Rural,No,Syphilis
+UK,2006,0-14,Female,757,48.97,South,Upper-Middle,Poor,Urban,Yes,Syphilis
+Brazil,2022,25-34,Male,824,23.27,North,Upper-Middle,Moderate,Urban,Yes,Syphilis
+France,2012,25-34,Female,780,40.89,East,Lower-Middle,Moderate,Urban,No,Syphilis
+UK,2020,0-14,Female,736,25.44,West,Low,Poor,Rural,Yes,Syphilis
+Australia,2007,55-64,Male,732,24.84,West,High,Poor,Urban,Yes,Syphilis
+USA,2020,65+,Male,823,46.53,West,High,Poor,Rural,Yes,Syphilis
+Australia,2016,0-14,Female,412,44.51,North,Low,Good,Rural,Yes,Syphilis
+Canada,2008,65+,Male,878,39.31,East,Lower-Middle,Poor,Urban,Yes,Syphilis
+France,2019,25-34,Male,217,14.88,Central,Upper-Middle,Good,Rural,No,Syphilis
+Japan,2012,45-54,Female,516,27.3,Central,Upper-Middle,Moderate,Rural,No,Syphilis
+Canada,2001,25-34,Female,474,11.27,South,High,Poor,Urban,Yes,Syphilis
+Brazil,2003,35-44,Female,36,22.25,North,High,Poor,Rural,Yes,Syphilis
+Brazil,2001,65+,Female,178,24.26,East,High,Good,Urban,No,Syphilis
+UK,2003,65+,Female,387,41.6,West,Upper-Middle,Good,Rural,No,Syphilis
+Canada,2017,35-44,Male,769,44.81,North,High,Good,Rural,No,Syphilis
+UK,2004,35-44,Female,17,20.79,North,Upper-Middle,Moderate,Urban,No,Syphilis
+France,2018,55-64,Male,711,0.98,East,Upper-Middle,Moderate,Urban,Yes,Syphilis
+Brazil,2009,15-24,Female,830,43.1,South,Lower-Middle,Poor,Urban,No,Syphilis
+USA,2017,35-44,Female,48,8.8,South,Lower-Middle,Poor,Rural,No,Syphilis
+Brazil,2020,65+,Male,62,31.13,South,Lower-Middle,Good,Rural,Yes,Syphilis
+India,2009,45-54,Female,69,1.35,West,High,Moderate,Urban,No,Syphilis
+Germany,2004,65+,Male,659,20.04,West,Upper-Middle,Poor,Urban,No,Syphilis
+Japan,2016,65+,Male,871,49.3,East,High,Good,Urban,No,Syphilis
+Canada,2021,55-64,Male,366,5.12,South,Upper-Middle,Good,Rural,No,Syphilis
+UK,2012,15-24,Female,162,21.24,East,Lower-Middle,Moderate,Rural,No,Syphilis
+Germany,2022,15-24,Female,739,15.43,South,Lower-Middle,Moderate,Urban,Yes,Syphilis
+Germany,2016,35-44,Female,945,45.26,North,High,Poor,Urban,Yes,Syphilis
+Australia,2008,25-34,Female,976,43.48,Central,Upper-Middle,Poor,Urban,Yes,Syphilis
+South Africa,2023,65+,Female,488,11.96,Central,High,Good,Rural,Yes,Syphilis
+Australia,2011,0-14,Female,431,4.15,South,Low,Good,Urban,Yes,Syphilis
+Australia,2013,25-34,Male,999,31.39,East,High,Good,Urban,No,Syphilis
+Japan,2013,25-34,Female,859,16.88,West,Lower-Middle,Poor,Urban,No,Syphilis
+India,2007,15-24,Female,489,33.64,South,Upper-Middle,Moderate,Rural,No,Syphilis
+Brazil,2022,15-24,Female,230,1.7,South,Upper-Middle,Poor,Rural,No,Syphilis
+Australia,2004,55-64,Female,370,6.76,West,High,Moderate,Urban,No,Syphilis
+France,2018,55-64,Male,178,34.35,South,Lower-Middle,Poor,Rural,No,Syphilis
+Brazil,2013,15-24,Male,857,10.7,North,Low,Poor,Urban,No,Syphilis
+India,2008,45-54,Male,410,42.89,West,High,Moderate,Urban,No,Syphilis
+UK,2006,45-54,Male,568,3.02,North,Upper-Middle,Poor,Urban,No,Syphilis
+South Africa,2007,0-14,Male,590,10.85,Central,Lower-Middle,Poor,Urban,No,Syphilis
+Brazil,2013,15-24,Female,270,49.93,West,Upper-Middle,Good,Rural,No,Syphilis
+Canada,2021,35-44,Male,206,21.71,West,Upper-Middle,Moderate,Urban,No,Syphilis
+Japan,2013,55-64,Male,793,35.18,East,Upper-Middle,Moderate,Urban,No,Syphilis
+Germany,2010,15-24,Female,740,9.21,East,Upper-Middle,Good,Rural,Yes,Syphilis
+UK,2013,45-54,Female,900,30.53,West,Low,Moderate,Urban,No,Syphilis
+India,2020,15-24,Male,751,36.33,Central,Lower-Middle,Good,Rural,Yes,Syphilis
+Australia,2007,45-54,Female,975,15.79,South,High,Moderate,Urban,No,Syphilis
+France,2002,15-24,Female,800,41.46,East,Lower-Middle,Moderate,Urban,No,Syphilis
+France,2022,65+,Male,82,30.21,Central,Lower-Middle,Moderate,Urban,No,Syphilis
+South Africa,2017,35-44,Female,846,19.52,Central,Lower-Middle,Moderate,Urban,Yes,Syphilis
+India,2002,0-14,Male,762,27.93,East,High,Good,Rural,Yes,Syphilis
+UK,2012,65+,Male,193,28.88,South,Lower-Middle,Good,Urban,No,Syphilis
+Canada,2011,35-44,Female,618,8.36,East,High,Moderate,Rural,No,Syphilis
+Germany,2014,45-54,Male,189,20.2,Central,High,Poor,Rural,No,Syphilis
+Australia,2017,55-64,Male,276,17.24,North,Low,Good,Rural,No,Syphilis
+Japan,2004,55-64,Female,74,20.11,East,Upper-Middle,Moderate,Urban,Yes,Syphilis
+USA,2006,25-34,Female,10,38.08,Central,High,Good,Rural,Yes,Syphilis
+USA,2010,35-44,Female,635,24.18,East,Upper-Middle,Poor,Rural,No,Syphilis
+Australia,2010,15-24,Female,216,47.02,Central,Lower-Middle,Poor,Rural,Yes,Syphilis
+UK,2014,0-14,Male,290,14.75,South,Upper-Middle,Poor,Urban,Yes,Syphilis
+Australia,2009,15-24,Female,445,20.84,Central,Upper-Middle,Moderate,Urban,No,Syphilis
+India,2014,15-24,Female,988,39.37,West,Upper-Middle,Moderate,Rural,No,Syphilis
+USA,2012,35-44,Male,923,27.35,North,Lower-Middle,Poor,Rural,No,Syphilis
+South Africa,2013,0-14,Male,552,27.4,Central,Lower-Middle,Good,Urban,Yes,Syphilis
+India,2016,25-34,Male,193,2.76,East,High,Good,Rural,No,Syphilis
+USA,2012,65+,Male,639,19.99,East,High,Poor,Rural,Yes,Syphilis
+Canada,2009,15-24,Female,289,13.61,Central,Low,Moderate,Rural,No,Syphilis
+Germany,2000,0-14,Female,964,49.97,West,Lower-Middle,Good,Urban,No,Syphilis
+France,2000,25-34,Male,583,15.49,Central,Low,Good,Rural,Yes,Syphilis
+India,2014,65+,Male,649,44.24,South,Lower-Middle,Good,Rural,Yes,Syphilis
+France,2015,15-24,Male,144,33.84,West,Upper-Middle,Moderate,Urban,Yes,Syphilis
+France,2011,0-14,Male,389,17.11,Central,Low,Poor,Rural,Yes,Syphilis
+USA,2023,65+,Female,866,27.22,North,Low,Moderate,Urban,Yes,Syphilis
+India,2005,35-44,Male,892,42.04,West,Low,Good,Urban,Yes,Syphilis
+Germany,2005,55-64,Female,407,44.18,Central,Lower-Middle,Poor,Urban,No,Syphilis
+Canada,2011,55-64,Male,811,8.1,North,High,Moderate,Rural,Yes,Syphilis
+Brazil,2014,15-24,Female,370,17.04,Central,Low,Poor,Rural,Yes,Syphilis
+South Africa,2003,15-24,Female,857,16.83,South,High,Good,Rural,No,Syphilis
+France,2023,65+,Female,441,2.2,East,Lower-Middle,Moderate,Rural,Yes,Syphilis
+Germany,2003,0-14,Female,947,29.95,Central,Low,Poor,Rural,Yes,Syphilis
+Japan,2001,55-64,Male,781,42.76,West,Lower-Middle,Moderate,Rural,No,Syphilis
+Japan,2023,15-24,Female,896,19.14,Central,High,Good,Rural,No,Syphilis
+Brazil,2011,25-34,Male,920,37.03,Central,High,Poor,Rural,No,Syphilis
+Brazil,2006,15-24,Female,651,31.42,Central,Low,Good,Urban,Yes,Syphilis
+Brazil,2019,55-64,Female,564,18.84,Central,High,Poor,Rural,No,Syphilis
+South Africa,2008,45-54,Male,529,7.14,West,Upper-Middle,Good,Rural,Yes,Syphilis
+South Africa,2008,55-64,Male,677,35.5,West,Upper-Middle,Good,Urban,No,Syphilis
+Canada,2007,25-34,Female,13,42.74,Central,Low,Moderate,Rural,Yes,Syphilis
+France,2013,0-14,Female,702,34.32,East,Lower-Middle,Good,Urban,No,Syphilis
+UK,2000,25-34,Male,987,0.99,Central,Lower-Middle,Moderate,Rural,No,Syphilis
+Japan,2022,45-54,Female,340,10.89,West,Lower-Middle,Good,Rural,No,Syphilis
+USA,2020,45-54,Male,865,3.57,South,Upper-Middle,Good,Urban,Yes,Syphilis
+USA,2022,15-24,Male,874,28.56,Central,High,Good,Urban,Yes,Syphilis
+Brazil,2011,15-24,Male,864,37.85,Central,Upper-Middle,Poor,Rural,No,Syphilis
+Australia,2001,55-64,Female,776,5.62,Central,High,Moderate,Urban,No,Syphilis
+Japan,2012,35-44,Female,312,41.93,Central,Upper-Middle,Poor,Rural,No,Syphilis
+UK,2003,25-34,Male,733,27.82,North,Lower-Middle,Moderate,Rural,No,Syphilis
+UK,2019,55-64,Male,104,34.53,Central,Lower-Middle,Good,Rural,Yes,Syphilis
+USA,2017,35-44,Male,339,48.57,West,Lower-Middle,Poor,Rural,No,Syphilis
+Australia,2018,55-64,Male,198,4.28,West,Low,Moderate,Rural,No,Syphilis
+UK,2015,45-54,Female,300,45.07,North,Low,Good,Rural,Yes,Syphilis
+Japan,2013,15-24,Male,444,6.39,Central,High,Moderate,Urban,Yes,Syphilis
+France,2007,15-24,Female,359,19.71,East,Low,Moderate,Urban,No,Syphilis
+Germany,2011,55-64,Male,368,42.59,Central,Upper-Middle,Good,Urban,No,Syphilis
+Australia,2008,15-24,Female,169,45.32,West,Upper-Middle,Poor,Rural,Yes,Syphilis
+UK,2005,0-14,Female,149,25.37,South,High,Good,Urban,Yes,Syphilis
+Australia,2017,55-64,Female,761,29.75,South,High,Poor,Rural,No,Syphilis
+Australia,2001,45-54,Female,768,35.44,East,Lower-Middle,Moderate,Urban,Yes,Syphilis
+France,2022,65+,Female,982,41.65,Central,Low,Moderate,Rural,Yes,Syphilis
+Japan,2007,55-64,Male,42,6.16,North,Lower-Middle,Moderate,Rural,No,Syphilis
+USA,2023,55-64,Male,202,40.52,Central,Low,Poor,Rural,No,Syphilis
+France,2013,15-24,Female,970,24.12,East,Low,Good,Rural,Yes,Syphilis
+UK,2005,45-54,Male,244,22.59,East,High,Poor,Rural,No,Syphilis
+Brazil,2009,55-64,Male,669,21.25,East,Lower-Middle,Moderate,Urban,No,Syphilis
+France,2007,15-24,Male,464,25.51,South,Lower-Middle,Moderate,Rural,No,Syphilis
+Brazil,2016,25-34,Male,449,47.26,Central,Low,Good,Urban,No,Syphilis
+India,2011,45-54,Male,913,27.46,Central,Low,Poor,Rural,No,Syphilis
+USA,2016,35-44,Male,798,47.66,North,High,Moderate,Rural,Yes,Syphilis
+Japan,2012,0-14,Male,794,9.1,East,Upper-Middle,Poor,Rural,Yes,Syphilis
+Germany,2018,35-44,Female,437,36.23,East,Lower-Middle,Poor,Urban,No,Syphilis
+Australia,2011,65+,Male,893,40.63,West,Lower-Middle,Good,Rural,No,Syphilis
+Brazil,2015,45-54,Male,750,33.99,West,High,Good,Urban,No,Syphilis
+Germany,2004,55-64,Male,531,30.39,South,High,Moderate,Rural,Yes,Syphilis
+Germany,2015,15-24,Female,565,28.28,Central,Lower-Middle,Good,Urban,Yes,Syphilis
+Brazil,2005,65+,Female,597,43.06,North,Lower-Middle,Poor,Urban,Yes,Syphilis
+Germany,2010,45-54,Male,273,41.1,North,Low,Good,Urban,Yes,Syphilis
+Australia,2016,0-14,Female,430,6.2,East,Upper-Middle,Poor,Rural,No,Syphilis
+Canada,2022,45-54,Female,872,42.44,North,Lower-Middle,Moderate,Rural,No,Syphilis
+India,2013,65+,Male,213,20.76,East,High,Poor,Urban,Yes,Syphilis
+Brazil,2005,15-24,Female,949,12.76,Central,Low,Good,Rural,Yes,Syphilis
+Australia,2022,35-44,Male,873,43.5,North,Low,Good,Rural,No,Syphilis
+USA,2010,25-34,Female,104,21.66,East,High,Moderate,Rural,No,Syphilis
+Brazil,2011,35-44,Male,192,40.44,Central,High,Good,Urban,No,Syphilis
+Australia,2012,15-24,Female,941,13.24,Central,Low,Moderate,Urban,No,Syphilis
+Australia,2003,65+,Male,689,0.3,East,High,Moderate,Rural,No,Syphilis
+France,2006,15-24,Male,659,24.82,East,Low,Good,Urban,Yes,Syphilis
+Canada,2001,0-14,Female,380,5.1,South,High,Poor,Rural,No,Syphilis
+Brazil,2005,45-54,Male,967,37.74,Central,Low,Moderate,Rural,Yes,Syphilis
+Japan,2005,45-54,Male,81,13.88,East,Lower-Middle,Poor,Urban,Yes,Syphilis
+Australia,2017,35-44,Female,705,22.24,Central,Lower-Middle,Good,Urban,No,Syphilis
+India,2019,65+,Male,549,4.44,North,High,Poor,Rural,Yes,Syphilis
+France,2007,25-34,Male,377,14.4,West,Upper-Middle,Poor,Rural,Yes,Syphilis
+Australia,2007,25-34,Female,838,39.1,West,Lower-Middle,Poor,Rural,No,Syphilis
+Brazil,2007,0-14,Male,154,7.66,East,Low,Poor,Urban,Yes,Syphilis
+UK,2007,15-24,Female,642,32.39,East,Upper-Middle,Good,Urban,No,Syphilis
+Australia,2000,0-14,Male,571,45.88,Central,Low,Good,Rural,No,Syphilis
+South Africa,2001,45-54,Female,736,34.02,East,Low,Poor,Rural,Yes,Syphilis
+UK,2011,55-64,Female,761,40.57,Central,Lower-Middle,Good,Urban,No,Syphilis
+Australia,2014,55-64,Male,240,5.54,East,High,Good,Rural,No,Syphilis
+Germany,2003,55-64,Female,374,12.61,Central,High,Moderate,Urban,Yes,Syphilis
+Australia,2002,15-24,Male,901,44.74,East,Low,Good,Urban,No,Syphilis
+USA,2013,0-14,Male,805,35.78,South,Lower-Middle,Poor,Rural,Yes,Syphilis
+Germany,2021,65+,Female,799,32.01,Central,Low,Good,Rural,Yes,Syphilis
+Brazil,2022,35-44,Male,204,33.22,South,Upper-Middle,Good,Urban,No,Syphilis
+India,2007,45-54,Male,611,20.77,South,Low,Good,Rural,Yes,Syphilis
+UK,2012,55-64,Female,350,2.32,South,Lower-Middle,Good,Urban,No,Syphilis
+Japan,2022,65+,Male,688,39.24,South,Low,Moderate,Urban,Yes,Syphilis
+France,2018,25-34,Male,774,33.97,North,Lower-Middle,Poor,Urban,No,Syphilis
+India,2021,0-14,Female,783,23.69,West,High,Poor,Rural,No,Syphilis
+Germany,2004,45-54,Male,143,45.0,North,Lower-Middle,Good,Rural,Yes,Syphilis
+France,2012,45-54,Male,189,16.87,East,Upper-Middle,Good,Rural,Yes,Syphilis
+UK,2019,25-34,Female,272,14.79,East,Lower-Middle,Moderate,Urban,No,Syphilis
+Japan,2000,25-34,Male,532,43.65,West,Upper-Middle,Good,Urban,No,Syphilis
+South Africa,2015,25-34,Male,845,39.87,West,Upper-Middle,Moderate,Urban,Yes,Syphilis
+South Africa,2022,55-64,Female,300,25.8,West,Low,Poor,Urban,No,Syphilis
+Japan,2023,55-64,Male,426,6.62,South,Upper-Middle,Poor,Rural,No,Syphilis
+France,2001,0-14,Male,46,10.83,North,Lower-Middle,Moderate,Rural,Yes,Syphilis
+Brazil,2006,25-34,Female,95,32.85,East,High,Poor,Rural,Yes,Syphilis
+France,2005,35-44,Female,930,19.31,North,Lower-Middle,Good,Urban,No,Syphilis
+Australia,2004,45-54,Male,64,41.84,North,High,Good,Urban,Yes,Syphilis
+France,2003,25-34,Male,413,47.5,North,Upper-Middle,Moderate,Rural,Yes,Syphilis
+Brazil,2001,45-54,Female,643,40.3,West,Low,Poor,Urban,No,Syphilis
+India,2009,15-24,Male,9,18.94,West,Upper-Middle,Poor,Rural,Yes,Syphilis
+UK,2021,65+,Male,459,39.46,East,Upper-Middle,Moderate,Urban,Yes,Syphilis
+France,2004,15-24,Male,715,17.64,East,High,Moderate,Urban,No,Syphilis
+UK,2017,25-34,Female,409,8.44,East,Lower-Middle,Poor,Urban,Yes,Syphilis
+Germany,2009,45-54,Male,470,1.77,North,Low,Moderate,Urban,No,Syphilis
+South Africa,2022,65+,Male,810,19.35,West,Low,Good,Urban,Yes,Syphilis
+South Africa,2021,15-24,Female,506,45.19,South,Low,Poor,Rural,Yes,Syphilis
+Brazil,2014,25-34,Female,686,12.03,North,Low,Moderate,Rural,No,Syphilis
+Germany,2008,45-54,Female,73,10.41,Central,Lower-Middle,Moderate,Rural,Yes,Syphilis
+South Africa,2010,25-34,Male,84,48.49,North,Low,Moderate,Urban,Yes,Syphilis
+Brazil,2020,55-64,Male,59,1.35,West,High,Poor,Rural,Yes,Syphilis
+France,2016,45-54,Female,21,39.31,Central,High,Good,Rural,Yes,Syphilis
+Germany,2020,15-24,Male,458,16.14,North,Low,Good,Urban,Yes,Syphilis
+Australia,2008,25-34,Male,918,1.97,West,Low,Poor,Urban,Yes,Syphilis
+Australia,2022,15-24,Male,157,45.9,West,Lower-Middle,Moderate,Rural,No,Syphilis
+Australia,2015,25-34,Male,831,7.07,South,Lower-Middle,Poor,Rural,Yes,Syphilis
+India,2005,0-14,Female,329,27.63,North,Low,Poor,Rural,Yes,Syphilis
+Australia,2021,15-24,Female,573,13.78,West,Lower-Middle,Moderate,Rural,No,Syphilis
+Germany,2010,15-24,Male,576,3.35,East,Upper-Middle,Poor,Rural,No,Syphilis
+USA,2022,35-44,Female,837,2.59,West,Low,Good,Urban,No,Syphilis
+South Africa,2016,65+,Male,680,5.87,South,Lower-Middle,Poor,Rural,Yes,Syphilis
+Australia,2003,55-64,Male,203,3.66,West,High,Moderate,Rural,No,Syphilis
+Germany,2014,15-24,Female,641,38.05,North,Low,Poor,Rural,No,Syphilis
+Canada,2000,45-54,Female,757,24.33,North,Low,Good,Rural,Yes,Syphilis
+France,2021,65+,Male,106,17.21,Central,High,Poor,Rural,No,Syphilis
+India,2019,25-34,Male,833,20.98,North,High,Poor,Rural,Yes,Syphilis
+UK,2000,0-14,Male,122,46.45,Central,Lower-Middle,Poor,Urban,Yes,Syphilis
+Brazil,2008,45-54,Male,318,45.55,East,High,Poor,Urban,Yes,Syphilis
+Canada,2011,65+,Female,182,35.81,South,Upper-Middle,Moderate,Urban,Yes,Syphilis
+Canada,2003,45-54,Female,615,44.25,East,Low,Good,Rural,Yes,Syphilis
+India,2021,45-54,Male,316,16.05,Central,Upper-Middle,Good,Rural,No,Syphilis
+Brazil,2012,45-54,Male,814,19.12,West,Lower-Middle,Good,Urban,Yes,Syphilis
+India,2006,65+,Female,773,30.72,West,High,Poor,Rural,No,Syphilis
+Australia,2007,0-14,Male,625,31.22,East,Low,Good,Rural,Yes,Syphilis
+UK,2012,35-44,Female,406,24.14,West,High,Moderate,Rural,No,Syphilis
+Brazil,2010,55-64,Male,986,20.09,Central,High,Poor,Urban,Yes,Syphilis
+Germany,2008,15-24,Female,949,49.31,South,Lower-Middle,Poor,Urban,Yes,Syphilis
+South Africa,2023,65+,Male,70,41.07,North,Lower-Middle,Good,Urban,Yes,Syphilis
+India,2015,45-54,Male,160,21.81,Central,Lower-Middle,Poor,Rural,No,Syphilis
+UK,2009,15-24,Male,240,36.39,Central,Lower-Middle,Poor,Urban,No,Syphilis
+France,2010,65+,Female,523,13.55,North,Low,Good,Urban,No,Syphilis
+USA,2011,15-24,Female,138,5.1,North,Upper-Middle,Moderate,Urban,Yes,Syphilis
+France,2013,45-54,Male,495,17.69,South,Upper-Middle,Moderate,Rural,Yes,Syphilis
+USA,2018,35-44,Male,679,20.21,South,Low,Good,Urban,No,Syphilis
+Japan,2011,65+,Male,247,0.93,South,High,Moderate,Urban,Yes,Syphilis
+Germany,2017,15-24,Male,866,40.76,West,Low,Moderate,Rural,No,Syphilis
+Japan,2020,25-34,Female,543,18.02,Central,Upper-Middle,Moderate,Urban,Yes,Syphilis
+India,2016,15-24,Female,524,29.06,North,Upper-Middle,Poor,Rural,No,Syphilis
+India,2002,55-64,Female,243,3.79,Central,Low,Poor,Rural,No,Syphilis
+USA,2000,45-54,Male,620,8.83,Central,Lower-Middle,Poor,Urban,Yes,Syphilis
+Brazil,2018,0-14,Male,336,44.5,South,High,Moderate,Urban,No,Syphilis
+UK,2003,15-24,Female,422,30.47,South,Low,Poor,Urban,Yes,Syphilis
+Australia,2022,35-44,Male,835,47.52,Central,Upper-Middle,Moderate,Rural,Yes,Syphilis
+Canada,2015,25-34,Female,194,49.94,South,Lower-Middle,Good,Urban,Yes,Syphilis
+India,2011,25-34,Female,308,18.66,West,High,Moderate,Urban,No,Syphilis
+Japan,2020,0-14,Female,645,15.01,North,Upper-Middle,Poor,Urban,No,Syphilis
+Japan,2020,55-64,Female,907,42.93,Central,High,Moderate,Rural,No,Syphilis
+France,2012,0-14,Male,506,49.93,North,Lower-Middle,Poor,Rural,Yes,Syphilis
+Germany,2016,55-64,Female,281,31.52,West,Upper-Middle,Poor,Rural,Yes,Syphilis
+USA,2007,15-24,Male,803,39.78,South,Lower-Middle,Good,Urban,No,Syphilis
+Canada,2012,45-54,Female,675,39.11,East,Low,Good,Urban,Yes,Syphilis
+USA,2019,35-44,Female,790,17.83,West,Low,Poor,Rural,Yes,Syphilis
+India,2004,25-34,Female,933,28.76,East,High,Moderate,Urban,No,Syphilis
+South Africa,2017,0-14,Female,982,41.67,North,Lower-Middle,Good,Urban,No,Syphilis
+Canada,2014,35-44,Male,439,34.44,Central,Lower-Middle,Good,Rural,Yes,Syphilis
+France,2011,55-64,Male,715,1.16,South,High,Poor,Rural,Yes,Syphilis
+Japan,2016,45-54,Male,608,16.9,West,High,Moderate,Rural,No,Syphilis
+France,2014,25-34,Male,483,7.31,South,High,Good,Urban,No,Syphilis
+India,2001,25-34,Female,223,11.73,East,Low,Good,Urban,Yes,Syphilis
+South Africa,2005,55-64,Male,749,45.28,East,High,Moderate,Urban,Yes,Syphilis
+Australia,2016,45-54,Male,117,1.94,Central,Low,Good,Rural,Yes,Syphilis
+Canada,2015,25-34,Female,968,11.07,East,High,Moderate,Rural,No,Syphilis
+USA,2016,45-54,Male,192,15.55,Central,Lower-Middle,Poor,Urban,Yes,Syphilis
+Canada,2019,25-34,Male,788,30.88,West,Lower-Middle,Good,Rural,Yes,Syphilis
+Japan,2008,15-24,Male,618,26.75,Central,High,Poor,Rural,Yes,Syphilis
+USA,2004,55-64,Male,994,10.99,East,High,Moderate,Urban,Yes,Syphilis
+Australia,2022,45-54,Female,516,8.3,North,Low,Poor,Rural,Yes,Syphilis
+Australia,2000,35-44,Female,530,11.92,Central,Upper-Middle,Poor,Urban,Yes,Syphilis
+Germany,2005,15-24,Male,307,25.18,South,Low,Poor,Rural,No,Syphilis
+USA,2023,65+,Female,964,13.63,North,Lower-Middle,Moderate,Urban,No,Syphilis
+UK,2013,35-44,Male,532,47.39,Central,High,Moderate,Rural,No,Syphilis
+South Africa,2016,55-64,Male,122,23.25,South,Lower-Middle,Moderate,Urban,Yes,Syphilis
+UK,2018,25-34,Male,649,3.03,North,Upper-Middle,Moderate,Rural,No,Syphilis
+Australia,2000,65+,Female,592,36.49,Central,Low,Moderate,Rural,Yes,Syphilis
+USA,2000,35-44,Female,154,16.51,West,Lower-Middle,Good,Rural,Yes,Syphilis
+Germany,2012,15-24,Female,870,32.71,South,Low,Good,Rural,Yes,Syphilis
+Canada,2013,65+,Female,537,14.05,West,High,Good,Rural,Yes,Syphilis
+Canada,2005,65+,Female,452,28.58,East,Lower-Middle,Poor,Urban,Yes,Syphilis
+Canada,2005,45-54,Female,169,38.63,Central,Upper-Middle,Poor,Urban,No,Syphilis
+Germany,2000,0-14,Male,59,46.41,Central,Low,Moderate,Urban,No,Syphilis
+India,2013,35-44,Female,301,13.13,South,Low,Moderate,Rural,No,Syphilis
+USA,2002,0-14,Male,553,16.81,Central,Upper-Middle,Good,Urban,Yes,Syphilis
+UK,2022,55-64,Male,550,23.27,East,Lower-Middle,Moderate,Rural,No,Syphilis
+South Africa,2009,35-44,Female,117,46.37,Central,Lower-Middle,Poor,Rural,Yes,Syphilis
+Australia,2018,35-44,Male,787,45.08,North,Low,Moderate,Urban,No,Syphilis
+South Africa,2018,45-54,Male,782,4.58,West,Upper-Middle,Good,Urban,No,Syphilis
+Australia,2018,25-34,Male,127,6.68,East,Low,Moderate,Rural,No,Syphilis
+USA,2022,15-24,Female,405,24.83,East,Low,Poor,Rural,No,Syphilis
+USA,2003,15-24,Female,399,5.42,West,High,Good,Urban,No,Syphilis
+France,2019,15-24,Male,515,17.34,West,Lower-Middle,Moderate,Urban,No,Syphilis
+UK,2018,55-64,Female,805,7.5,East,Lower-Middle,Poor,Rural,Yes,Syphilis
+Japan,2009,65+,Male,885,31.84,West,High,Good,Rural,Yes,Syphilis
+Australia,2001,25-34,Female,498,47.48,South,Lower-Middle,Good,Urban,Yes,Syphilis
+Brazil,2003,0-14,Male,942,49.84,West,Lower-Middle,Poor,Rural,Yes,Syphilis
+Japan,2023,15-24,Male,528,18.82,North,Lower-Middle,Moderate,Rural,Yes,Syphilis
+Canada,2005,0-14,Female,398,29.99,North,Upper-Middle,Moderate,Urban,No,Syphilis
+South Africa,2006,25-34,Female,265,42.83,South,High,Moderate,Urban,Yes,Syphilis
+USA,2015,55-64,Female,751,5.96,West,Low,Good,Rural,Yes,Syphilis
+Brazil,2006,25-34,Female,263,34.51,North,Upper-Middle,Good,Rural,Yes,Syphilis
+Australia,2017,45-54,Female,398,20.5,Central,Low,Moderate,Urban,Yes,Syphilis
+India,2019,65+,Male,646,10.39,West,High,Good,Rural,Yes,Syphilis
+Australia,2021,15-24,Male,725,20.2,South,High,Good,Urban,Yes,Syphilis
+South Africa,2018,55-64,Male,527,3.89,West,High,Poor,Rural,Yes,Syphilis
+Australia,2008,45-54,Female,436,34.8,East,Lower-Middle,Moderate,Urban,Yes,Syphilis
+Australia,2019,15-24,Female,840,12.71,East,Upper-Middle,Moderate,Rural,Yes,Syphilis
+Germany,2009,25-34,Male,930,15.64,North,High,Moderate,Rural,No,Syphilis
+UK,2012,25-34,Male,360,6.14,East,Low,Good,Rural,Yes,Syphilis
+Japan,2017,35-44,Male,129,43.25,South,Lower-Middle,Good,Urban,Yes,Syphilis
+India,2015,35-44,Male,864,24.72,North,Lower-Middle,Good,Urban,No,Syphilis
+USA,2021,25-34,Female,634,28.65,South,Upper-Middle,Moderate,Urban,No,Syphilis
+Australia,2016,25-34,Male,241,28.51,South,Upper-Middle,Good,Rural,Yes,Syphilis
+India,2021,0-14,Female,627,20.58,East,Upper-Middle,Moderate,Rural,Yes,Syphilis
+France,2012,65+,Male,709,9.71,East,Lower-Middle,Good,Urban,Yes,Syphilis
+Australia,2011,0-14,Female,222,37.28,South,High,Moderate,Urban,No,Syphilis
+Germany,2009,65+,Female,214,6.44,East,Low,Poor,Rural,Yes,Syphilis
+Germany,2000,45-54,Female,916,5.28,East,High,Good,Rural,No,Syphilis
+Brazil,2007,35-44,Female,592,35.54,East,Low,Moderate,Rural,No,Syphilis
+Canada,2020,35-44,Male,775,10.52,West,High,Poor,Rural,No,Syphilis
+South Africa,2021,25-34,Male,135,15.41,South,Upper-Middle,Poor,Urban,No,Syphilis
+Japan,2017,25-34,Male,818,23.81,Central,Low,Good,Urban,No,Syphilis
+France,2001,45-54,Female,754,22.52,South,Lower-Middle,Moderate,Rural,Yes,Syphilis
+South Africa,2015,55-64,Male,386,35.46,North,Low,Good,Rural,Yes,Syphilis
+South Africa,2011,55-64,Male,303,31.21,East,Lower-Middle,Poor,Rural,No,Syphilis
+Brazil,2008,55-64,Male,782,32.26,East,High,Good,Urban,No,Syphilis
+Germany,2002,35-44,Female,287,35.73,Central,Upper-Middle,Moderate,Urban,No,Syphilis
+UK,2021,0-14,Female,562,14.7,North,Low,Poor,Rural,No,Syphilis
+India,2020,55-64,Female,189,16.18,West,Lower-Middle,Good,Rural,Yes,Syphilis
+USA,2003,15-24,Male,297,21.96,South,High,Good,Rural,No,Syphilis
+UK,2001,45-54,Male,526,15.44,West,Upper-Middle,Good,Rural,No,Syphilis
+UK,2007,55-64,Male,389,49.25,North,Upper-Middle,Good,Rural,Yes,Syphilis
+Canada,2009,15-24,Female,459,40.72,Central,Upper-Middle,Good,Rural,Yes,Syphilis
+Canada,2015,55-64,Male,744,8.32,North,High,Poor,Urban,Yes,Syphilis
+UK,2022,0-14,Female,261,0.38,Central,High,Poor,Urban,Yes,Syphilis
+Germany,2010,0-14,Female,704,2.23,West,High,Moderate,Urban,No,Syphilis
+South Africa,2017,55-64,Female,925,12.28,West,Upper-Middle,Good,Rural,No,Syphilis
+India,2021,15-24,Female,715,5.8,North,Low,Moderate,Rural,No,Syphilis
+South Africa,2013,45-54,Male,773,26.71,North,Lower-Middle,Poor,Rural,No,Syphilis
+South Africa,2007,15-24,Male,113,42.91,East,High,Good,Urban,No,Syphilis
+South Africa,2022,45-54,Female,886,36.86,Central,Low,Moderate,Rural,No,Syphilis
+India,2014,55-64,Male,864,10.86,East,Lower-Middle,Good,Urban,No,Syphilis
+India,2016,45-54,Female,36,20.03,South,Upper-Middle,Good,Rural,No,Syphilis
+Brazil,2020,25-34,Male,79,25.44,South,Low,Moderate,Rural,No,Syphilis
+Japan,2017,35-44,Male,275,40.53,North,Upper-Middle,Poor,Rural,Yes,Syphilis
+UK,2005,65+,Female,960,41.97,West,Lower-Middle,Moderate,Urban,No,Syphilis
+Australia,2022,35-44,Female,278,45.49,South,High,Moderate,Urban,Yes,Syphilis
+Brazil,2013,0-14,Female,674,25.51,South,Upper-Middle,Moderate,Urban,Yes,Syphilis
+Brazil,2022,25-34,Female,312,34.74,East,Low,Good,Rural,Yes,Syphilis
+USA,2002,35-44,Male,529,5.68,East,High,Poor,Urban,Yes,Syphilis
+Australia,2006,55-64,Female,204,28.31,South,Low,Poor,Rural,No,Syphilis
+Canada,2014,45-54,Male,985,12.51,North,Lower-Middle,Good,Rural,Yes,Syphilis
+USA,2020,45-54,Female,952,21.64,East,Lower-Middle,Poor,Urban,Yes,Syphilis
+Canada,2023,15-24,Male,17,31.74,South,High,Moderate,Urban,No,Syphilis
+Japan,2015,15-24,Female,714,12.92,West,Low,Poor,Rural,Yes,Syphilis
+France,2015,45-54,Male,476,2.7,East,Low,Good,Rural,No,Syphilis
+Canada,2007,55-64,Male,511,0.61,South,Low,Poor,Rural,No,Syphilis
+South Africa,2006,45-54,Male,210,1.21,Central,Low,Good,Rural,No,Syphilis
+Canada,2005,15-24,Female,499,0.52,East,Lower-Middle,Moderate,Urban,No,Syphilis
+Australia,2001,35-44,Female,402,5.61,Central,Low,Good,Urban,Yes,Syphilis
+India,2021,0-14,Female,429,12.05,East,Lower-Middle,Poor,Urban,No,Syphilis
+Australia,2012,15-24,Female,992,11.14,East,Low,Moderate,Rural,Yes,Syphilis
+Japan,2011,55-64,Male,78,49.34,Central,Low,Poor,Rural,Yes,Syphilis
+Brazil,2014,35-44,Male,568,15.37,North,Upper-Middle,Good,Rural,No,Syphilis
+South Africa,2008,35-44,Male,80,6.46,South,Upper-Middle,Moderate,Urban,Yes,Syphilis
+France,2001,35-44,Female,306,27.32,North,Low,Good,Rural,No,Syphilis
+Japan,2016,25-34,Male,58,42.91,North,Lower-Middle,Poor,Rural,Yes,Syphilis
+Brazil,2004,25-34,Male,530,33.94,South,Low,Good,Urban,Yes,Syphilis
+Germany,2010,65+,Female,208,14.87,West,Upper-Middle,Poor,Urban,Yes,Syphilis
+Australia,2021,35-44,Female,511,28.12,North,Low,Poor,Rural,Yes,Syphilis
+Japan,2018,55-64,Male,977,35.77,North,Upper-Middle,Moderate,Urban,No,Syphilis
+Australia,2023,45-54,Female,135,36.43,North,Low,Moderate,Rural,No,Syphilis
+France,2006,55-64,Female,844,33.36,West,High,Good,Urban,Yes,Syphilis
+Brazil,2001,25-34,Female,994,43.55,East,Low,Poor,Rural,Yes,Syphilis
+Australia,2015,15-24,Female,522,43.52,Central,Lower-Middle,Poor,Urban,Yes,Syphilis
+India,2011,65+,Male,581,28.99,Central,Upper-Middle,Moderate,Urban,Yes,Syphilis
+Canada,2022,25-34,Male,853,21.55,West,High,Moderate,Urban,No,Syphilis
+USA,2014,45-54,Male,899,32.11,North,Upper-Middle,Moderate,Urban,Yes,Syphilis
+France,2000,0-14,Male,83,40.93,Central,Upper-Middle,Moderate,Rural,Yes,Syphilis
+USA,2012,65+,Male,621,0.38,West,Lower-Middle,Good,Rural,Yes,Syphilis
+UK,2022,25-34,Female,44,49.6,South,Low,Good,Urban,No,Syphilis
+Canada,2005,55-64,Male,483,9.23,Central,Lower-Middle,Good,Rural,Yes,Syphilis
+France,2012,65+,Male,966,23.57,South,Low,Good,Urban,No,Syphilis
+Japan,2017,55-64,Female,910,43.61,North,High,Moderate,Urban,No,Syphilis
+India,2002,35-44,Female,644,11.33,Central,Lower-Middle,Good,Rural,Yes,Syphilis
+Japan,2000,35-44,Female,493,23.89,West,Lower-Middle,Good,Rural,Yes,Syphilis
+Germany,2014,35-44,Male,499,6.72,East,Upper-Middle,Good,Rural,Yes,Syphilis
+UK,2012,65+,Female,18,19.81,Central,Lower-Middle,Moderate,Rural,No,Syphilis
+India,2004,0-14,Female,605,8.94,Central,Low,Poor,Rural,No,Syphilis
+Australia,2012,45-54,Female,995,18.25,Central,Lower-Middle,Moderate,Rural,Yes,Syphilis
+Australia,2021,65+,Male,948,18.74,Central,Lower-Middle,Poor,Rural,No,Syphilis
+South Africa,2004,15-24,Female,294,49.66,West,High,Poor,Urban,Yes,Syphilis
+Australia,2018,55-64,Female,976,49.74,West,Low,Good,Rural,Yes,Syphilis
+Brazil,2020,55-64,Male,148,5.83,East,Upper-Middle,Good,Urban,Yes,Syphilis
+UK,2023,65+,Female,472,36.33,West,Low,Good,Rural,Yes,Syphilis
+Brazil,2017,65+,Male,995,2.68,West,High,Moderate,Rural,Yes,Syphilis
+Canada,2020,45-54,Male,172,1.61,North,Low,Moderate,Urban,Yes,Syphilis
+South Africa,2021,0-14,Female,563,5.36,North,Low,Good,Urban,No,Syphilis
+South Africa,2009,65+,Male,531,48.28,South,Lower-Middle,Moderate,Urban,No,Syphilis
+Australia,2023,35-44,Female,120,47.05,East,Lower-Middle,Moderate,Urban,No,Syphilis
+India,2007,45-54,Female,836,9.78,North,Low,Poor,Rural,Yes,Syphilis
+Canada,2014,15-24,Female,737,8.17,East,Low,Moderate,Rural,Yes,Syphilis
+Germany,2020,35-44,Female,66,12.1,East,Upper-Middle,Poor,Urban,Yes,Syphilis
+UK,2019,15-24,Male,141,25.83,Central,High,Good,Urban,No,Syphilis
+UK,2022,25-34,Female,446,28.53,East,Lower-Middle,Moderate,Rural,Yes,Syphilis
+France,2021,15-24,Female,506,11.16,Central,Lower-Middle,Poor,Rural,No,Syphilis
+Japan,2003,35-44,Female,189,37.86,South,Lower-Middle,Moderate,Urban,Yes,Syphilis
+Australia,2001,25-34,Male,158,15.55,South,Lower-Middle,Poor,Rural,No,Syphilis
+France,2023,35-44,Male,610,46.11,South,Low,Poor,Rural,Yes,Syphilis
+Germany,2005,55-64,Female,670,32.87,Central,Low,Moderate,Urban,Yes,Syphilis
+South Africa,2002,35-44,Male,947,21.87,Central,Upper-Middle,Good,Urban,No,Syphilis
+USA,2006,25-34,Male,246,39.52,South,Lower-Middle,Poor,Urban,No,Syphilis
+Germany,2009,15-24,Female,856,40.91,Central,Lower-Middle,Good,Urban,No,Syphilis
+Germany,2022,55-64,Female,944,14.6,West,Low,Moderate,Rural,Yes,Syphilis
+India,2005,0-14,Female,748,17.05,West,Upper-Middle,Moderate,Urban,No,Syphilis
+India,2015,0-14,Female,33,46.8,Central,Low,Good,Rural,No,Syphilis
+India,2001,0-14,Female,361,8.32,Central,Lower-Middle,Moderate,Rural,Yes,Syphilis
+India,2023,0-14,Male,753,2.2,North,Lower-Middle,Poor,Rural,Yes,Syphilis
+Japan,2016,45-54,Female,330,22.76,North,High,Good,Rural,No,Syphilis
+Australia,2012,0-14,Female,512,40.08,East,High,Moderate,Urban,Yes,Syphilis
+UK,2000,25-34,Female,850,38.61,East,High,Moderate,Rural,No,Syphilis
+Australia,2005,65+,Female,787,45.98,East,Upper-Middle,Good,Urban,No,Syphilis
+Australia,2004,0-14,Female,71,26.71,South,Low,Poor,Rural,No,Syphilis
+UK,2012,35-44,Male,313,5.09,West,Lower-Middle,Good,Urban,Yes,Syphilis
+India,2022,65+,Female,915,29.48,South,Lower-Middle,Moderate,Rural,No,Syphilis
+Australia,2017,0-14,Male,728,38.94,Central,Upper-Middle,Moderate,Rural,No,Syphilis
+Japan,2011,65+,Female,79,4.76,North,Lower-Middle,Good,Urban,Yes,Syphilis
+India,2006,15-24,Female,169,8.72,Central,Lower-Middle,Poor,Urban,No,Syphilis
+Japan,2014,25-34,Female,810,0.71,Central,Low,Poor,Urban,No,Syphilis
+France,2002,25-34,Male,983,29.72,North,High,Poor,Urban,No,Syphilis
+Australia,2015,65+,Female,180,44.35,Central,High,Good,Rural,Yes,Syphilis
+Brazil,2000,55-64,Female,628,33.57,East,Upper-Middle,Poor,Rural,No,Syphilis
+Japan,2015,45-54,Female,260,49.1,North,High,Poor,Rural,Yes,Syphilis
+France,2023,35-44,Female,486,3.25,Central,High,Poor,Rural,Yes,Syphilis
+Canada,2011,65+,Female,772,45.16,East,Upper-Middle,Poor,Rural,No,Syphilis
+Canada,2018,25-34,Female,5,40.72,East,Upper-Middle,Moderate,Urban,No,Syphilis
+France,2007,15-24,Female,297,15.78,West,High,Good,Urban,Yes,Syphilis
+South Africa,2022,0-14,Male,620,48.68,East,Low,Good,Rural,No,Syphilis
+South Africa,2011,25-34,Female,855,14.47,South,Upper-Middle,Poor,Urban,No,Syphilis
+India,2014,15-24,Female,360,44.48,North,Lower-Middle,Good,Rural,Yes,Syphilis
+South Africa,2001,0-14,Female,117,44.05,North,Upper-Middle,Good,Rural,No,Syphilis
+Canada,2016,45-54,Male,357,37.91,North,Lower-Middle,Moderate,Urban,No,Syphilis
+South Africa,2006,25-34,Male,957,28.22,Central,Upper-Middle,Good,Rural,Yes,Syphilis
+Brazil,2012,25-34,Female,843,6.09,Central,Upper-Middle,Moderate,Urban,No,Syphilis
+Canada,2000,65+,Male,439,26.65,South,High,Good,Rural,Yes,Syphilis
+Japan,2005,65+,Female,331,17.9,East,High,Moderate,Urban,Yes,Syphilis
+Germany,2012,15-24,Female,525,39.63,Central,High,Moderate,Rural,No,Syphilis
+South Africa,2010,55-64,Male,654,37.93,East,Low,Good,Rural,Yes,Syphilis
+South Africa,2009,65+,Female,188,45.54,East,High,Moderate,Urban,No,Syphilis
+Australia,2015,35-44,Male,968,0.84,Central,High,Moderate,Rural,No,Syphilis
+UK,2023,45-54,Male,281,40.47,Central,Upper-Middle,Good,Rural,Yes,Syphilis
+Brazil,2022,35-44,Male,511,46.93,South,Upper-Middle,Moderate,Urban,Yes,Syphilis
+Canada,2019,25-34,Female,466,39.49,West,Low,Moderate,Urban,Yes,Syphilis
+Canada,2016,35-44,Female,115,6.6,North,Lower-Middle,Moderate,Urban,Yes,Syphilis
+USA,2016,0-14,Female,940,4.16,Central,Upper-Middle,Moderate,Rural,Yes,Syphilis
+UK,2003,45-54,Female,236,1.14,Central,Upper-Middle,Moderate,Urban,Yes,Syphilis
+South Africa,2004,35-44,Female,338,31.47,East,Lower-Middle,Poor,Urban,No,Syphilis
+France,2022,0-14,Female,522,31.52,West,Low,Moderate,Urban,No,Syphilis
+Australia,2013,15-24,Female,199,49.35,Central,Upper-Middle,Moderate,Rural,Yes,Syphilis
+Japan,2019,35-44,Male,764,19.96,West,High,Moderate,Urban,No,Syphilis
+Australia,2009,45-54,Female,50,16.66,North,Low,Moderate,Rural,Yes,Syphilis
+South Africa,2013,0-14,Female,940,31.26,East,Lower-Middle,Good,Rural,Yes,Syphilis
+USA,2000,35-44,Female,142,41.3,South,Lower-Middle,Poor,Urban,No,Syphilis
+Germany,2010,15-24,Male,783,46.85,North,High,Good,Rural,No,Syphilis
+Canada,2022,35-44,Male,528,40.18,West,High,Poor,Rural,Yes,Syphilis
+Japan,2017,0-14,Male,514,21.39,West,High,Moderate,Rural,Yes,Syphilis
+UK,2015,35-44,Female,670,31.78,North,Low,Moderate,Rural,Yes,Syphilis
+South Africa,2017,45-54,Male,30,42.83,West,Lower-Middle,Poor,Rural,No,Syphilis
+Brazil,2007,25-34,Male,82,24.58,South,High,Poor,Urban,Yes,Syphilis
+France,2009,0-14,Female,31,10.91,South,High,Good,Urban,Yes,Syphilis
+Australia,2009,0-14,Female,748,8.57,West,Lower-Middle,Poor,Urban,No,Syphilis
+USA,2004,0-14,Female,333,0.11,West,Upper-Middle,Moderate,Rural,No,Syphilis
+Germany,2009,0-14,Male,660,35.94,South,Low,Good,Urban,No,Syphilis
+India,2017,35-44,Female,177,5.64,West,Upper-Middle,Poor,Rural,Yes,Syphilis
+France,2020,45-54,Female,370,12.27,Central,High,Poor,Rural,Yes,Syphilis
+South Africa,2023,15-24,Female,547,14.96,East,Low,Good,Rural,No,Syphilis
+Germany,2005,45-54,Female,535,28.06,Central,Upper-Middle,Poor,Rural,Yes,Syphilis
+France,2002,0-14,Female,106,19.96,West,Lower-Middle,Moderate,Urban,Yes,Syphilis
+France,2007,55-64,Female,97,33.77,West,High,Good,Rural,No,Syphilis
+Canada,2008,35-44,Male,230,2.88,East,Low,Poor,Urban,No,Syphilis
+France,2004,55-64,Female,227,6.28,West,Low,Moderate,Urban,Yes,Syphilis
+Brazil,2001,35-44,Male,371,25.01,East,Low,Poor,Rural,No,Syphilis
+Germany,2001,0-14,Male,100,16.91,South,Low,Good,Urban,No,Syphilis
+South Africa,2006,35-44,Female,445,14.86,East,High,Poor,Urban,Yes,Syphilis
+South Africa,2016,0-14,Male,468,3.44,East,High,Poor,Urban,Yes,Syphilis
+Brazil,2009,45-54,Male,55,44.8,Central,Lower-Middle,Poor,Rural,Yes,Syphilis
+UK,2011,65+,Male,195,34.62,West,Lower-Middle,Moderate,Rural,Yes,Syphilis
+Germany,2001,25-34,Female,520,6.17,South,Lower-Middle,Moderate,Rural,Yes,Syphilis
+France,2009,35-44,Male,424,3.35,North,Upper-Middle,Poor,Urban,Yes,Syphilis
+USA,2019,0-14,Male,315,48.75,East,Lower-Middle,Poor,Urban,No,Syphilis
+Japan,2000,55-64,Male,128,34.09,North,High,Good,Rural,No,Syphilis
+Germany,2003,0-14,Male,32,20.93,West,Upper-Middle,Poor,Rural,No,Syphilis
+India,2012,55-64,Female,93,35.12,East,High,Good,Urban,Yes,Syphilis
+USA,2011,35-44,Female,519,37.84,North,Upper-Middle,Moderate,Rural,Yes,Syphilis
+Brazil,2010,15-24,Male,258,39.02,Central,Lower-Middle,Poor,Rural,Yes,Syphilis
+France,2009,55-64,Female,853,23.95,North,Lower-Middle,Good,Urban,Yes,Syphilis
+UK,2014,0-14,Female,902,21.55,Central,Lower-Middle,Moderate,Urban,Yes,Syphilis
+India,2004,35-44,Male,220,0.65,South,Upper-Middle,Good,Rural,No,Syphilis
+UK,2016,0-14,Female,752,46.34,West,High,Moderate,Rural,Yes,Syphilis
+UK,2004,15-24,Female,106,30.21,North,Low,Poor,Rural,No,Syphilis
+Australia,2001,25-34,Male,548,10.24,East,High,Good,Rural,Yes,Syphilis
+Canada,2008,65+,Male,416,45.99,West,Lower-Middle,Poor,Urban,No,Syphilis
+India,2005,65+,Female,557,45.76,North,Upper-Middle,Good,Rural,No,Syphilis
+Japan,2017,15-24,Female,810,49.46,East,Upper-Middle,Moderate,Rural,No,Syphilis
+Canada,2013,45-54,Female,309,43.72,East,Lower-Middle,Good,Urban,No,Syphilis
+India,2018,35-44,Female,366,49.89,East,Upper-Middle,Good,Urban,No,Syphilis
+UK,2013,15-24,Male,521,12.31,East,Lower-Middle,Poor,Urban,No,Syphilis
+Canada,2007,25-34,Male,459,42.13,North,High,Poor,Urban,No,Syphilis
+India,2016,0-14,Male,599,41.17,South,Upper-Middle,Poor,Urban,Yes,Syphilis
+Japan,2002,35-44,Male,370,11.62,Central,Low,Moderate,Urban,Yes,Syphilis
+USA,2009,55-64,Male,331,5.01,Central,Upper-Middle,Poor,Urban,No,Syphilis
+Germany,2016,15-24,Female,689,48.97,Central,Lower-Middle,Good,Rural,Yes,Syphilis
+France,2010,25-34,Female,642,14.87,South,Low,Moderate,Rural,Yes,Syphilis
+India,2007,15-24,Male,707,43.56,East,Lower-Middle,Poor,Urban,No,Syphilis
+Japan,2000,45-54,Male,11,0.31,East,Upper-Middle,Good,Rural,Yes,Syphilis
+Germany,2012,65+,Male,818,1.15,West,Low,Good,Rural,No,Syphilis
+Canada,2020,65+,Female,507,23.35,Central,Low,Moderate,Urban,Yes,Syphilis
+India,2003,35-44,Female,419,12.01,Central,Upper-Middle,Good,Urban,No,Syphilis
+India,2006,0-14,Female,122,34.52,East,Low,Poor,Urban,Yes,Syphilis
+Brazil,2013,25-34,Male,911,28.32,Central,High,Good,Urban,No,Syphilis
+India,2004,15-24,Male,235,3.97,East,Low,Poor,Urban,Yes,Syphilis
+France,2023,35-44,Male,331,8.22,East,Low,Poor,Rural,Yes,Syphilis
+Brazil,2010,15-24,Male,543,19.46,East,High,Moderate,Rural,Yes,Syphilis
+Germany,2016,35-44,Male,348,9.36,North,Lower-Middle,Good,Urban,No,Syphilis
+Canada,2004,65+,Female,958,39.63,North,Lower-Middle,Moderate,Urban,No,Syphilis
+Canada,2019,45-54,Male,412,20.86,North,High,Moderate,Rural,Yes,Syphilis
+South Africa,2002,15-24,Female,224,4.76,North,Low,Moderate,Rural,Yes,Syphilis
+South Africa,2004,45-54,Female,153,24.27,South,Upper-Middle,Poor,Rural,No,Syphilis
+Germany,2014,55-64,Female,212,4.63,West,High,Poor,Urban,Yes,Syphilis
+Australia,2018,55-64,Female,92,6.53,West,Upper-Middle,Poor,Urban,Yes,Syphilis
+Japan,2015,65+,Female,921,12.06,East,Lower-Middle,Poor,Rural,No,Syphilis
+Australia,2007,25-34,Male,331,42.99,Central,High,Good,Urban,No,Syphilis
+Japan,2012,45-54,Male,467,46.24,North,Upper-Middle,Good,Rural,Yes,Syphilis
+Brazil,2015,35-44,Male,860,41.33,West,Low,Poor,Urban,No,Syphilis
+Germany,2002,25-34,Female,641,16.77,West,High,Poor,Urban,Yes,Syphilis
+Japan,2000,15-24,Female,955,13.7,North,Upper-Middle,Good,Rural,Yes,Syphilis
+South Africa,2008,15-24,Female,709,27.5,South,High,Moderate,Rural,No,Syphilis
+South Africa,2008,35-44,Female,970,36.12,South,High,Moderate,Urban,Yes,Syphilis
+UK,2021,0-14,Female,554,49.67,West,Lower-Middle,Poor,Rural,No,Syphilis
+Japan,2016,0-14,Female,878,6.67,South,Lower-Middle,Moderate,Urban,No,Syphilis
+Germany,2023,15-24,Male,930,2.56,North,Low,Poor,Rural,Yes,Syphilis
+USA,2001,65+,Female,228,34.75,West,Lower-Middle,Poor,Rural,No,Syphilis
+Brazil,2008,65+,Female,194,41.63,North,Lower-Middle,Poor,Urban,Yes,Syphilis
+India,2023,35-44,Male,530,42.33,South,Lower-Middle,Good,Urban,No,Syphilis
+India,2018,0-14,Female,845,33.96,North,Upper-Middle,Moderate,Urban,Yes,Syphilis
+Japan,2012,45-54,Male,243,47.71,South,High,Good,Rural,No,Syphilis
+Australia,2004,15-24,Male,389,25.6,South,Lower-Middle,Moderate,Rural,Yes,Syphilis
+Brazil,2008,55-64,Male,276,45.7,North,Upper-Middle,Good,Urban,Yes,Syphilis
+Canada,2012,45-54,Female,450,48.39,South,High,Good,Rural,No,Syphilis
+France,2000,35-44,Male,639,42.37,East,Lower-Middle,Poor,Urban,Yes,Syphilis
+India,2014,55-64,Male,587,15.56,North,Lower-Middle,Poor,Urban,Yes,Syphilis
+South Africa,2003,45-54,Female,574,9.89,East,High,Good,Urban,Yes,Syphilis
+Brazil,2003,0-14,Male,478,27.45,North,Upper-Middle,Moderate,Urban,Yes,Syphilis
+Australia,2019,65+,Female,480,22.71,South,Upper-Middle,Moderate,Urban,Yes,Syphilis
+Germany,2009,0-14,Female,288,43.9,South,Low,Poor,Rural,Yes,Syphilis
+Australia,2005,55-64,Male,698,5.09,West,High,Poor,Rural,No,Syphilis
+Brazil,2023,25-34,Female,690,12.96,West,Low,Moderate,Urban,No,Syphilis
+Canada,2011,65+,Female,678,37.61,East,Upper-Middle,Moderate,Rural,No,Syphilis
+India,2019,15-24,Male,695,4.84,South,Lower-Middle,Moderate,Urban,No,Syphilis
+South Africa,2015,55-64,Male,540,16.11,West,Low,Poor,Rural,Yes,Syphilis
+USA,2002,35-44,Male,330,19.42,South,Upper-Middle,Moderate,Rural,Yes,Syphilis
+Germany,2013,15-24,Male,470,31.17,North,Upper-Middle,Poor,Urban,No,Syphilis
+South Africa,2000,45-54,Female,759,7.99,West,Lower-Middle,Good,Rural,Yes,Syphilis
+Canada,2009,65+,Male,849,43.04,East,High,Good,Urban,No,Syphilis
+France,2014,35-44,Male,534,22.43,West,Upper-Middle,Good,Rural,Yes,Syphilis
+Canada,2006,35-44,Male,939,45.86,South,Low,Moderate,Urban,Yes,Syphilis
+Canada,2003,0-14,Female,467,23.45,Central,Lower-Middle,Poor,Urban,No,Syphilis
+India,2013,45-54,Female,977,13.82,Central,High,Moderate,Urban,Yes,Syphilis
+Brazil,2023,0-14,Female,984,7.18,South,High,Poor,Urban,No,Syphilis
+Brazil,2015,0-14,Female,420,0.29,North,High,Moderate,Urban,No,Syphilis
+South Africa,2013,65+,Female,608,26.65,West,Upper-Middle,Good,Urban,No,Syphilis
+France,2002,25-34,Male,122,5.45,Central,High,Poor,Rural,Yes,Syphilis
+France,2016,0-14,Female,762,19.65,North,Upper-Middle,Moderate,Urban,Yes,Syphilis
+Australia,2020,15-24,Female,891,29.5,South,Lower-Middle,Poor,Rural,No,Syphilis
+USA,2013,35-44,Female,308,13.86,North,Lower-Middle,Poor,Urban,Yes,Syphilis
+Canada,2017,65+,Male,932,8.84,South,High,Moderate,Rural,No,Syphilis
+USA,2002,0-14,Male,924,38.76,West,Lower-Middle,Moderate,Urban,No,Syphilis
+UK,2021,55-64,Female,334,47.34,North,Low,Poor,Urban,Yes,Syphilis
+Japan,2018,15-24,Male,954,5.11,West,Low,Poor,Rural,No,Syphilis
+Canada,2002,45-54,Female,420,7.86,North,Upper-Middle,Good,Urban,Yes,Syphilis
+USA,2011,35-44,Male,326,48.0,South,High,Poor,Urban,Yes,Syphilis
+India,2021,65+,Male,649,1.99,South,Upper-Middle,Good,Urban,Yes,Syphilis
+Japan,2004,55-64,Female,789,48.88,North,Lower-Middle,Good,Urban,No,Syphilis
+France,2009,65+,Male,832,0.33,South,High,Good,Rural,No,Syphilis
+Canada,2008,65+,Female,844,43.7,East,Upper-Middle,Poor,Urban,Yes,Syphilis
+Canada,2000,55-64,Female,573,15.44,East,High,Good,Rural,Yes,Syphilis
+France,2012,45-54,Female,250,46.94,West,High,Poor,Urban,No,Syphilis
+Australia,2002,55-64,Male,990,15.92,East,Upper-Middle,Poor,Urban,Yes,Syphilis
+India,2018,15-24,Male,95,32.75,East,High,Moderate,Urban,Yes,Syphilis
+Canada,2010,65+,Female,296,4.09,Central,Lower-Middle,Poor,Urban,No,Syphilis
+USA,2015,45-54,Female,184,12.19,Central,Low,Poor,Rural,No,Syphilis
+Canada,2005,65+,Male,260,38.71,Central,Low,Good,Urban,No,Syphilis
+Japan,2023,55-64,Female,799,26.48,Central,High,Poor,Urban,Yes,Syphilis
+Canada,2002,45-54,Male,667,46.41,South,Low,Poor,Urban,No,Syphilis
+USA,2018,45-54,Male,186,21.49,West,High,Moderate,Rural,No,Syphilis
+Germany,2005,0-14,Male,409,43.5,West,Upper-Middle,Moderate,Rural,No,Syphilis
+Japan,2007,0-14,Female,69,22.5,East,Lower-Middle,Good,Rural,No,Syphilis
+South Africa,2021,0-14,Female,838,48.96,West,Low,Good,Rural,No,Syphilis
+South Africa,2012,55-64,Male,773,48.0,East,Upper-Middle,Moderate,Urban,No,Syphilis
+Japan,2011,35-44,Female,627,16.52,West,Lower-Middle,Moderate,Urban,No,Syphilis
+India,2009,15-24,Female,859,44.31,North,Low,Poor,Rural,Yes,Syphilis
+Germany,2002,55-64,Male,8,42.4,North,Low,Good,Urban,No,Syphilis
+Japan,2003,65+,Male,265,10.61,West,Lower-Middle,Good,Urban,Yes,Syphilis
+USA,2000,0-14,Female,783,31.25,South,Upper-Middle,Poor,Rural,Yes,Syphilis
+UK,2012,45-54,Male,484,3.73,East,Upper-Middle,Poor,Urban,No,Syphilis
+Brazil,2023,55-64,Female,761,41.85,West,Low,Good,Rural,Yes,Syphilis
+Canada,2003,45-54,Male,617,8.81,East,Lower-Middle,Moderate,Rural,No,Syphilis
+Australia,2021,65+,Male,775,3.63,Central,Upper-Middle,Moderate,Rural,Yes,Syphilis
+Germany,2010,45-54,Female,736,20.07,West,Lower-Middle,Poor,Rural,No,Syphilis
+USA,2018,45-54,Female,840,28.89,South,Lower-Middle,Good,Rural,Yes,Syphilis
+Australia,2010,25-34,Female,371,42.76,Central,Low,Poor,Rural,No,Syphilis
+South Africa,2011,35-44,Female,783,48.71,West,Lower-Middle,Moderate,Urban,No,Syphilis
+Japan,2010,15-24,Female,677,22.03,North,Lower-Middle,Moderate,Urban,Yes,Syphilis
+Germany,2005,15-24,Male,83,3.12,West,High,Poor,Urban,Yes,Syphilis
+France,2011,0-14,Male,807,37.48,North,Lower-Middle,Moderate,Rural,No,Syphilis
+Canada,2008,25-34,Female,646,28.3,North,Upper-Middle,Good,Rural,Yes,Syphilis
+Brazil,2009,55-64,Male,211,22.45,West,Low,Poor,Rural,No,Syphilis
+South Africa,2002,55-64,Female,313,15.53,West,Low,Poor,Urban,Yes,Syphilis
+Japan,2002,15-24,Male,604,25.17,North,Lower-Middle,Poor,Urban,No,Syphilis
+Canada,2019,35-44,Male,337,17.0,East,Lower-Middle,Moderate,Rural,Yes,Syphilis
+South Africa,2022,45-54,Female,490,37.87,Central,Upper-Middle,Good,Rural,No,Syphilis
+France,2015,65+,Female,403,27.24,South,High,Poor,Rural,Yes,Syphilis
+Australia,2002,0-14,Female,639,43.85,West,Low,Poor,Rural,No,Syphilis
+Brazil,2009,35-44,Male,191,27.22,Central,High,Moderate,Rural,Yes,Syphilis
+Brazil,2023,15-24,Female,671,11.99,Central,Upper-Middle,Good,Urban,No,Syphilis
+Canada,2010,25-34,Female,843,42.57,East,Low,Poor,Rural,Yes,Syphilis
+USA,2007,0-14,Female,335,27.91,Central,Upper-Middle,Moderate,Rural,Yes,Syphilis
+Canada,2005,15-24,Female,522,10.42,West,Lower-Middle,Poor,Rural,No,Syphilis
+South Africa,2019,55-64,Female,619,31.21,Central,Upper-Middle,Moderate,Rural,Yes,Syphilis
+USA,2010,0-14,Female,87,17.95,West,Lower-Middle,Good,Urban,Yes,Syphilis
+Brazil,2020,15-24,Male,579,42.24,West,High,Moderate,Rural,No,Syphilis
+UK,2011,55-64,Male,62,22.72,North,Low,Poor,Rural,No,Syphilis
+Brazil,2015,65+,Male,387,36.35,East,Low,Poor,Rural,No,Syphilis
+Canada,2017,55-64,Male,146,4.87,South,High,Moderate,Urban,No,Syphilis
+South Africa,2012,45-54,Female,153,19.86,North,Lower-Middle,Good,Rural,Yes,Syphilis
+USA,2021,25-34,Female,619,49.16,South,Low,Good,Urban,Yes,Syphilis
+Japan,2002,45-54,Male,660,40.44,West,Upper-Middle,Poor,Rural,Yes,Syphilis
+USA,2014,15-24,Male,698,8.08,North,Lower-Middle,Poor,Rural,No,Syphilis
+France,2021,65+,Male,349,13.96,Central,Low,Moderate,Rural,Yes,Syphilis
+India,2020,35-44,Female,854,16.56,Central,Upper-Middle,Moderate,Rural,Yes,Syphilis
+India,2013,65+,Female,178,32.55,South,Upper-Middle,Moderate,Rural,No,Syphilis
+Germany,2017,65+,Female,889,37.87,West,Low,Good,Rural,Yes,Syphilis
+Australia,2013,65+,Male,847,37.5,South,High,Good,Rural,Yes,Syphilis
+Germany,2004,45-54,Male,487,25.54,East,High,Poor,Rural,No,Syphilis
+Germany,2020,35-44,Male,778,40.56,Central,Low,Poor,Rural,Yes,Syphilis
+USA,2013,55-64,Male,661,21.91,North,Upper-Middle,Poor,Urban,No,Syphilis
+South Africa,2007,15-24,Male,247,6.28,North,High,Moderate,Urban,No,Syphilis
+Germany,2022,25-34,Female,254,28.27,North,High,Good,Urban,Yes,Syphilis
+Canada,2014,35-44,Female,500,47.62,Central,High,Poor,Urban,Yes,Syphilis
+USA,2014,15-24,Female,541,39.67,West,Lower-Middle,Poor,Rural,Yes,Syphilis
+South Africa,2018,35-44,Female,352,28.98,Central,High,Poor,Rural,No,Syphilis
+India,2019,45-54,Female,512,32.38,Central,Low,Poor,Urban,No,Syphilis
+UK,2005,15-24,Male,778,46.54,North,Low,Poor,Urban,Yes,Syphilis
+Canada,2018,45-54,Female,13,21.47,Central,Lower-Middle,Poor,Urban,Yes,Syphilis
+Japan,2007,0-14,Male,559,16.64,North,Lower-Middle,Good,Urban,No,Syphilis
+Australia,2005,15-24,Female,151,48.86,West,Low,Poor,Rural,Yes,Syphilis
+Japan,2019,35-44,Male,50,43.19,East,Lower-Middle,Good,Urban,Yes,Syphilis
+South Africa,2022,0-14,Male,215,16.22,North,High,Moderate,Rural,No,Syphilis
+France,2014,45-54,Male,991,23.24,South,Upper-Middle,Good,Rural,Yes,Syphilis
+South Africa,2002,45-54,Male,644,20.81,East,Upper-Middle,Moderate,Rural,Yes,Syphilis
+UK,2009,35-44,Male,372,7.54,West,Upper-Middle,Good,Urban,Yes,Syphilis
+India,2014,0-14,Male,113,47.9,East,Low,Good,Urban,Yes,Syphilis
+Brazil,2023,65+,Female,252,20.28,North,Lower-Middle,Poor,Rural,No,Syphilis
+South Africa,2015,55-64,Male,963,43.78,West,Upper-Middle,Good,Urban,No,Syphilis
+India,2016,25-34,Male,341,9.55,South,High,Good,Urban,No,Syphilis
+Japan,2018,35-44,Female,53,27.44,North,High,Poor,Rural,No,Syphilis
+South Africa,2010,45-54,Male,130,1.3,North,High,Moderate,Rural,Yes,Syphilis
+South Africa,2015,15-24,Female,836,38.23,West,Lower-Middle,Poor,Urban,Yes,Syphilis
+Germany,2004,0-14,Female,193,29.09,West,Upper-Middle,Poor,Rural,Yes,Syphilis
+Japan,2004,55-64,Male,591,31.32,East,High,Poor,Urban,Yes,Syphilis
+Australia,2013,25-34,Male,57,2.68,South,Lower-Middle,Moderate,Urban,No,Syphilis
+Australia,2017,15-24,Female,97,10.63,East,High,Good,Rural,Yes,Syphilis
+Canada,2007,0-14,Male,198,3.81,East,Upper-Middle,Good,Rural,Yes,Syphilis
+France,2004,55-64,Female,647,14.52,North,Upper-Middle,Poor,Urban,No,Syphilis
+Brazil,2006,35-44,Male,147,31.41,West,Upper-Middle,Poor,Rural,No,Syphilis
+South Africa,2015,55-64,Female,684,28.35,North,Upper-Middle,Good,Urban,No,Syphilis
+South Africa,2022,35-44,Male,575,30.65,South,Upper-Middle,Good,Rural,Yes,Syphilis
+Canada,2013,65+,Male,577,27.51,East,High,Good,Urban,No,Syphilis
+France,2004,0-14,Female,295,13.72,South,Upper-Middle,Moderate,Rural,Yes,Syphilis
+Japan,2023,55-64,Female,723,12.3,West,High,Moderate,Urban,Yes,Syphilis
+South Africa,2008,25-34,Female,621,6.94,West,Upper-Middle,Poor,Urban,No,Syphilis
+India,2003,55-64,Female,794,42.47,Central,High,Moderate,Rural,No,Syphilis
+USA,2003,0-14,Male,684,30.86,South,Upper-Middle,Poor,Urban,No,Syphilis
+France,2015,15-24,Female,12,9.41,North,High,Good,Urban,Yes,Syphilis
+South Africa,2023,15-24,Female,918,8.94,South,Upper-Middle,Good,Urban,Yes,Syphilis
+France,2016,55-64,Male,333,43.66,East,Lower-Middle,Poor,Urban,Yes,Syphilis
+Australia,2014,55-64,Male,220,37.16,West,High,Good,Urban,No,Syphilis
+Brazil,2003,35-44,Female,398,33.0,West,Lower-Middle,Poor,Rural,Yes,Syphilis
+South Africa,2005,0-14,Male,342,20.4,South,High,Poor,Urban,Yes,Syphilis
+Brazil,2015,35-44,Female,798,13.17,South,High,Poor,Urban,Yes,Syphilis
+UK,2003,25-34,Male,512,48.97,South,High,Moderate,Urban,Yes,Syphilis
+USA,2005,65+,Female,172,39.88,East,Low,Poor,Rural,No,Syphilis
+Canada,2004,15-24,Male,468,15.16,East,Upper-Middle,Poor,Rural,Yes,Syphilis
+Brazil,2015,45-54,Female,748,42.39,North,Lower-Middle,Poor,Urban,No,Syphilis
+South Africa,2015,45-54,Female,987,37.97,South,Lower-Middle,Moderate,Urban,No,Syphilis
+Germany,2009,0-14,Male,166,14.92,North,High,Good,Rural,Yes,Syphilis
+Canada,2008,0-14,Male,699,21.38,Central,Lower-Middle,Moderate,Rural,Yes,Syphilis
+Canada,2003,45-54,Female,170,9.38,East,Lower-Middle,Poor,Urban,No,Syphilis
+Japan,2013,0-14,Female,564,5.64,West,Lower-Middle,Moderate,Rural,Yes,Syphilis
+Brazil,2003,15-24,Male,512,36.17,Central,Lower-Middle,Good,Urban,No,Syphilis
+Germany,2011,25-34,Male,831,13.45,West,Low,Good,Urban,Yes,Syphilis
+Brazil,2023,25-34,Male,189,41.02,Central,High,Poor,Urban,Yes,Syphilis
+Japan,2009,35-44,Male,120,49.78,North,Lower-Middle,Good,Rural,No,Syphilis
+USA,2003,15-24,Male,105,3.92,North,Low,Moderate,Urban,Yes,Syphilis
+South Africa,2017,65+,Male,674,23.7,East,Low,Moderate,Urban,No,Syphilis
+Australia,2012,0-14,Male,807,40.12,West,High,Good,Rural,No,Syphilis
+Australia,2012,0-14,Male,41,39.47,Central,Upper-Middle,Poor,Urban,Yes,Syphilis
+Brazil,2013,65+,Male,889,38.02,South,Upper-Middle,Poor,Urban,No,Syphilis
+Japan,2017,35-44,Female,876,17.51,South,Upper-Middle,Moderate,Urban,Yes,Syphilis
+France,2000,35-44,Male,677,22.75,East,Lower-Middle,Good,Rural,Yes,Syphilis
+South Africa,2020,0-14,Male,321,29.79,West,High,Moderate,Rural,Yes,Syphilis
+Brazil,2015,0-14,Female,886,48.7,South,Upper-Middle,Moderate,Urban,No,Syphilis
+France,2014,65+,Female,335,16.44,East,Lower-Middle,Moderate,Rural,Yes,Syphilis
+South Africa,2021,15-24,Female,160,46.16,East,High,Poor,Urban,Yes,Syphilis
+France,2004,65+,Female,264,13.54,West,Lower-Middle,Good,Urban,No,Syphilis
+Canada,2005,35-44,Female,865,49.45,South,Upper-Middle,Good,Rural,No,Syphilis
+Brazil,2005,65+,Female,530,33.55,South,Upper-Middle,Poor,Rural,No,Syphilis
+Japan,2002,65+,Male,685,23.23,South,Low,Moderate,Urban,No,Syphilis
+South Africa,2015,65+,Female,477,30.71,North,Low,Moderate,Rural,Yes,Syphilis
+Australia,2011,15-24,Female,352,13.7,South,High,Poor,Rural,Yes,Syphilis
+Brazil,2003,55-64,Female,545,13.78,Central,Lower-Middle,Good,Rural,Yes,Syphilis
+South Africa,2000,0-14,Male,773,5.77,North,Lower-Middle,Poor,Urban,Yes,Syphilis
+South Africa,2003,45-54,Female,210,5.79,North,Upper-Middle,Good,Urban,No,Syphilis
+France,2000,65+,Male,496,17.45,North,Upper-Middle,Good,Rural,No,Syphilis
+France,2020,45-54,Female,895,38.17,North,High,Good,Urban,Yes,Syphilis
+Germany,2007,55-64,Female,842,30.44,East,Low,Moderate,Urban,No,Syphilis
+Brazil,2023,0-14,Male,382,5.22,Central,Upper-Middle,Moderate,Rural,No,Syphilis
+UK,2004,35-44,Male,676,42.63,West,Lower-Middle,Poor,Urban,No,Syphilis
+India,2001,45-54,Female,481,30.11,South,Upper-Middle,Poor,Rural,No,Syphilis
+UK,2011,35-44,Male,919,48.05,North,Low,Moderate,Urban,No,Syphilis
+South Africa,2021,45-54,Male,936,33.54,West,Lower-Middle,Poor,Urban,Yes,Syphilis
+Germany,2016,35-44,Female,5,8.84,East,Low,Moderate,Rural,Yes,Syphilis
+South Africa,2006,65+,Female,34,23.74,West,High,Moderate,Urban,No,Syphilis
+UK,2010,45-54,Female,792,32.46,North,High,Good,Rural,No,Syphilis
+South Africa,2003,35-44,Male,145,1.51,Central,Low,Good,Urban,Yes,Syphilis
+France,2004,55-64,Female,351,0.84,West,Lower-Middle,Moderate,Urban,Yes,Syphilis
+Brazil,2005,15-24,Female,583,6.56,North,Low,Good,Urban,No,Syphilis
+Australia,2010,35-44,Male,465,12.66,North,Upper-Middle,Moderate,Rural,No,Syphilis
+UK,2000,15-24,Male,348,21.53,South,Upper-Middle,Good,Urban,No,Syphilis
+India,2009,15-24,Female,742,24.42,South,Low,Poor,Urban,Yes,Syphilis
+India,2019,0-14,Male,125,6.99,Central,Upper-Middle,Poor,Rural,No,Syphilis
+France,2023,65+,Female,790,33.7,South,Low,Moderate,Rural,No,Syphilis
+Brazil,2020,55-64,Male,271,29.85,Central,Upper-Middle,Moderate,Urban,No,Syphilis
+USA,2010,15-24,Female,357,14.79,East,Low,Good,Rural,No,Syphilis
+USA,2023,25-34,Male,527,0.78,East,Upper-Middle,Good,Rural,No,Syphilis
+Japan,2016,65+,Male,754,3.97,South,Lower-Middle,Moderate,Rural,No,Syphilis
+Japan,2007,15-24,Male,498,19.65,East,Lower-Middle,Poor,Rural,No,Syphilis
+UK,2012,35-44,Male,153,7.78,West,Upper-Middle,Poor,Urban,No,Syphilis
+France,2019,15-24,Female,53,18.9,West,Low,Moderate,Rural,Yes,Syphilis
+France,2017,35-44,Male,149,31.45,West,Upper-Middle,Poor,Urban,Yes,Syphilis
+South Africa,2021,35-44,Female,503,27.41,East,High,Moderate,Urban,Yes,Syphilis
+India,2015,25-34,Male,870,11.64,West,High,Good,Urban,No,Syphilis
+India,2001,15-24,Male,450,17.26,Central,Low,Poor,Rural,Yes,Syphilis
+India,2004,15-24,Female,219,30.74,North,Upper-Middle,Poor,Rural,Yes,Syphilis
+Germany,2017,45-54,Male,625,43.06,South,Upper-Middle,Good,Urban,Yes,Syphilis
+Brazil,2002,65+,Male,800,37.69,Central,Lower-Middle,Good,Urban,Yes,Syphilis
+Canada,2021,45-54,Female,277,27.71,West,Low,Poor,Rural,Yes,Syphilis
+South Africa,2016,0-14,Male,452,18.18,North,High,Poor,Rural,No,Syphilis
+USA,2015,35-44,Female,428,18.32,South,High,Moderate,Urban,Yes,Syphilis
+France,2005,25-34,Male,83,43.98,Central,Low,Moderate,Rural,No,Syphilis
+USA,2018,45-54,Male,962,2.06,South,High,Poor,Rural,No,Syphilis
